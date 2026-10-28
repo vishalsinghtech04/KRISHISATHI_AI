@@ -1,0 +1,2605 @@
+{
+ "MANDI_PRICES_DATA": [
+  {
+   "id": "m1",
+   "crop": "Wheat",
+   "state": "Uttar Pradesh",
+   "district": "Lucknow",
+   "mandi": "Lucknow APMC",
+   "minPrice": 2300,
+   "maxPrice": 2500,
+   "modalPrice": 2420,
+   "previousPrice": 2380,
+   "lastUpdated": "Today, 11:30 AM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 40
+  },
+  {
+   "id": "m2",
+   "crop": "Rice (Paddy)",
+   "state": "Uttar Pradesh",
+   "district": "Ayodhya",
+   "mandi": "Ayodhya Mandi",
+   "minPrice": 2100,
+   "maxPrice": 2450,
+   "modalPrice": 2300,
+   "previousPrice": 2320,
+   "lastUpdated": "Today, 10:45 AM",
+   "unit": "₹ / Quintal",
+   "trend": "down",
+   "changeAmount": 20
+  },
+  {
+   "id": "m3",
+   "crop": "Maize",
+   "state": "Uttar Pradesh",
+   "district": "Kanpur Nagar",
+   "mandi": "Kanpur Mandi",
+   "minPrice": 2000,
+   "maxPrice": 2250,
+   "modalPrice": 2120,
+   "previousPrice": 2100,
+   "lastUpdated": "Today, 01:15 PM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 20
+  },
+  {
+   "id": "m4",
+   "crop": "Mustard (Sarson)",
+   "state": "Rajasthan",
+   "district": "Bharatpur",
+   "mandi": "Bharatpur APMC",
+   "minPrice": 5200,
+   "maxPrice": 5650,
+   "modalPrice": 5480,
+   "previousPrice": 5410,
+   "lastUpdated": "Today, 12:00 PM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 70
+  },
+  {
+   "id": "m5",
+   "crop": "Potato",
+   "state": "Uttar Pradesh",
+   "district": "Agra",
+   "mandi": "Agra Khandari Mandi",
+   "minPrice": 1200,
+   "maxPrice": 1550,
+   "modalPrice": 1380,
+   "previousPrice": 1420,
+   "lastUpdated": "Today, 09:20 AM",
+   "unit": "₹ / Quintal",
+   "trend": "down",
+   "changeAmount": 40
+  },
+  {
+   "id": "m6",
+   "crop": "Tomato",
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "mandi": "Pimpalgaon Mandi",
+   "minPrice": 1600,
+   "maxPrice": 2300,
+   "modalPrice": 1950,
+   "previousPrice": 1850,
+   "lastUpdated": "Today, 02:00 PM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 100
+  },
+  {
+   "id": "m7",
+   "crop": "Onion",
+   "state": "Maharashtra",
+   "district": "Nashik",
+   "mandi": "Lasalgaon APMC",
+   "minPrice": 1800,
+   "maxPrice": 2450,
+   "modalPrice": 2150,
+   "previousPrice": 2200,
+   "lastUpdated": "Today, 11:10 AM",
+   "unit": "₹ / Quintal",
+   "trend": "down",
+   "changeAmount": 50
+  },
+  {
+   "id": "m8",
+   "crop": "Cotton",
+   "state": "Gujarat",
+   "district": "Rajkot",
+   "mandi": "Rajkot Market Yard",
+   "minPrice": 7100,
+   "maxPrice": 7650,
+   "modalPrice": 7420,
+   "previousPrice": 7350,
+   "lastUpdated": "Today, 01:40 PM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 70
+  },
+  {
+   "id": "m9",
+   "crop": "Pulses (Chickpea / Chana)",
+   "state": "Madhya Pradesh",
+   "district": "Indore",
+   "mandi": "Indore Chhawani Mandi",
+   "minPrice": 5800,
+   "maxPrice": 6350,
+   "modalPrice": 6120,
+   "previousPrice": 6100,
+   "lastUpdated": "Today, 12:45 PM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 20
+  },
+  {
+   "id": "m10",
+   "crop": "Sugarcane",
+   "state": "Uttar Pradesh",
+   "district": "Muzaffarnagar",
+   "mandi": "Muzaffarnagar Mill Gate",
+   "minPrice": 350,
+   "maxPrice": 375,
+   "modalPrice": 370,
+   "previousPrice": 370,
+   "lastUpdated": "Today, 08:30 AM",
+   "unit": "₹ / Quintal",
+   "trend": "stable",
+   "changeAmount": 0
+  },
+  {
+   "id": "m11",
+   "crop": "Wheat",
+   "state": "Punjab",
+   "district": "Ludhiana",
+   "mandi": "Khanna Mandi",
+   "minPrice": 2350,
+   "maxPrice": 2550,
+   "modalPrice": 2460,
+   "previousPrice": 2440,
+   "lastUpdated": "Today, 11:00 AM",
+   "unit": "₹ / Quintal",
+   "trend": "up",
+   "changeAmount": 20
+  },
+  {
+   "id": "m12",
+   "crop": "Wheat",
+   "state": "Madhya Pradesh",
+   "district": "Bhopal",
+   "mandi": "Karond Mandi",
+   "minPrice": 2400,
+   "maxPrice": 2650,
+   "modalPrice": 2520,
+   "previousPrice": 2550,
+   "lastUpdated": "Today, 10:15 AM",
+   "unit": "₹ / Quintal",
+   "trend": "down",
+   "changeAmount": 30
+  }
+ ],
+ "MANDI_TREND_HISTORY": {
+  "Wheat": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 2360,
+    "modalPrice": 2360
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 2370,
+    "modalPrice": 2370
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 2390,
+    "modalPrice": 2390
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 2385,
+    "modalPrice": 2385
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 2400,
+    "modalPrice": 2400
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 2380,
+    "modalPrice": 2380
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 2420,
+    "modalPrice": 2420
+   }
+  ],
+  "Rice (Paddy)": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 2250,
+    "modalPrice": 2250
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 2280,
+    "modalPrice": 2280
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 2290,
+    "modalPrice": 2290
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 2310,
+    "modalPrice": 2310
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 2340,
+    "modalPrice": 2340
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 2320,
+    "modalPrice": 2320
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 2300,
+    "modalPrice": 2300
+   }
+  ],
+  "Maize": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 2040,
+    "modalPrice": 2040
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 2060,
+    "modalPrice": 2060
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 2080,
+    "modalPrice": 2080
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 2090,
+    "modalPrice": 2090
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 2110,
+    "modalPrice": 2110
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 2100,
+    "modalPrice": 2100
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 2120,
+    "modalPrice": 2120
+   }
+  ],
+  "Mustard (Sarson)": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 5350,
+    "modalPrice": 5350
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 5380,
+    "modalPrice": 5380
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 5400,
+    "modalPrice": 5400
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 5420,
+    "modalPrice": 5420
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 5400,
+    "modalPrice": 5400
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 5410,
+    "modalPrice": 5410
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 5480,
+    "modalPrice": 5480
+   }
+  ],
+  "Tomato": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 1700,
+    "modalPrice": 1700
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 1750,
+    "modalPrice": 1750
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 1800,
+    "modalPrice": 1800
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 1820,
+    "modalPrice": 1820
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 1890,
+    "modalPrice": 1890
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 1850,
+    "modalPrice": 1850
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 1950,
+    "modalPrice": 1950
+   }
+  ],
+  "Onion": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 2300,
+    "modalPrice": 2300
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 2280,
+    "modalPrice": 2280
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 2250,
+    "modalPrice": 2250
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 2220,
+    "modalPrice": 2220
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 2210,
+    "modalPrice": 2210
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 2200,
+    "modalPrice": 2200
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 2150,
+    "modalPrice": 2150
+   }
+  ],
+  "Pulses (Chickpea / Chana)": [
+   {
+    "day": "6 Days Ago",
+    "date": "Sep 26",
+    "price": 6000,
+    "modalPrice": 6000
+   },
+   {
+    "day": "5 Days Ago",
+    "date": "Sep 27",
+    "price": 6050,
+    "modalPrice": 6050
+   },
+   {
+    "day": "4 Days Ago",
+    "date": "Sep 28",
+    "price": 6080,
+    "modalPrice": 6080
+   },
+   {
+    "day": "3 Days Ago",
+    "date": "Sep 29",
+    "price": 6100,
+    "modalPrice": 6100
+   },
+   {
+    "day": "2 Days Ago",
+    "date": "Sep 30",
+    "price": 6080,
+    "modalPrice": 6080
+   },
+   {
+    "day": "Yesterday",
+    "date": "Oct 01",
+    "price": 6100,
+    "modalPrice": 6100
+   },
+   {
+    "day": "Today",
+    "date": "Oct 02",
+    "price": 6120,
+    "modalPrice": 6120
+   }
+  ]
+ },
+ "STATES_LIST": [
+  "All States",
+  "Uttar Pradesh",
+  "Punjab",
+  "Haryana",
+  "Madhya Pradesh",
+  "Rajasthan",
+  "Maharashtra",
+  "Gujarat"
+ ],
+ "CROPS_DATA": [
+  {
+   "id": "wheat",
+   "name": "Wheat",
+   "hindiName": "गेहूँ",
+   "category": "Cereals",
+   "season": "Rabi",
+   "bestSowingTime": "First fortnight of November (Nov 1 - Nov 20)",
+   "soilRequirement": "Well-drained fertile loamy to clay loam soils with neutral pH 6.0 - 7.5",
+   "climate": "Cool winter with moderate temperatures (12°C - 25°C) and clear bright sunshine at grain filling",
+   "seedRequirement": "40 - 50 kg per acre (broadcast/line sowing)",
+   "irrigation": "4 to 6 irrigations at critical growth stages (CRI, Tillering, Jointing, Flowering, Milking, Dough)",
+   "fertilizerGuidance": "NPK 50:25:17 kg/acre (120:60:40 kg/ha). Apply 1/3 N + full P & K; remaining N in two equal splits.",
+   "commonDiseases": [
+    "Yellow Rust / Stripe Rust",
+    "Brown / Leaf Rust",
+    "Karnal Bunt",
+    "Powdery Mildew",
+    "Loose Smut"
+   ],
+   "pestManagement": "Monitor for Termites (Chlorpyrifos soil drenching) and Aphids (spray Imidacloprid 17.8 SL @ 1ml/3L if threshold exceeds 10-15 aphids/earhead).",
+   "harvestingPeriod": "March to mid-April when grains turn golden and moisture drops to 12-14%",
+   "yieldPerAcre": "18 - 24 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80",
+   "overview": "Wheat is India’s premier Rabi staple cereal crop, driving food security across Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, and Rajasthan. Sowing at the optimum temperature ensures robust tillering and avoids terminal heat stress.",
+   "seedSelection": "Choose high-yielding certified rust-resistant varieties like DBW 187 (Karan Vandana), DBW 222, HD 3226, PBW 725, or WH 1105. Treat seed with Trichoderma viride @ 4g/kg or Carboxin @ 2g/kg.",
+   "sowingMethod": "Use Happy Seeder or Zero-Till drill for direct sowing into paddy stubble. Maintain row spacing of 20-22.5 cm and depth of 4-5 cm.",
+   "irrigationSchedule": [
+    {
+     "stage": "Crown Root Initiation (CRI)",
+     "daysAfterSowing": "20-25 days",
+     "tip": "Most critical stage; never delay this first irrigation."
+    },
+    {
+     "stage": "Tillering Stage",
+     "daysAfterSowing": "40-45 days",
+     "tip": "Follow immediately with first top dressing of Urea."
+    },
+    {
+     "stage": "Jointing Stage",
+     "daysAfterSowing": "60-65 days",
+     "tip": "Essential for stem elongation and ear formation."
+    },
+    {
+     "stage": "Flowering / Heading",
+     "daysAfterSowing": "80-85 days",
+     "tip": "Avoid water stress during pollination."
+    },
+    {
+     "stage": "Milking Stage",
+     "daysAfterSowing": "100-105 days",
+     "tip": "Irrigate during light wind conditions to avoid lodging."
+    },
+    {
+     "stage": "Dough Stage",
+     "daysAfterSowing": "115-120 days",
+     "tip": "Ensures plump grain weight."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 50 kg DAP + 25 kg MOP + 15 kg Urea per acre at sowing time.",
+    "firstTopDress": "Apply 30 kg Urea per acre after first CRI irrigation at 22-25 days.",
+    "secondTopDress": "Apply 25-30 kg Urea per acre after second irrigation at boot stage (45-50 days).",
+    "npkRatio": "4:2:1 (120:60:40 kg/ha)"
+   },
+   "weedManagement": "Apply Clodinafop-propargyl 15% WP @ 160g/acre for Phalaris minor (gullidanda) and Metsulfuron-methyl 20% WP @ 8g/acre for broadleaf weeds at 30-35 days.",
+   "commonPests": [
+    "Wheat Aphid",
+    "Armyworm",
+    "Termites",
+    "Pink Stem Borer"
+   ],
+   "storage": "Sun-dry harvested grains until grain moisture drops below 10-12%. Clean and store in galvanized GI bins or hermetic bags. Treat storage area with Malathion 50 EC spray."
+  },
+  {
+   "id": "rice",
+   "name": "Rice (Paddy)",
+   "hindiName": "धान",
+   "category": "Cereals",
+   "season": "Kharif",
+   "bestSowingTime": "Nursery in May-June; Transplanting in June-July with onset of monsoon",
+   "soilRequirement": "Deep clayey or clay-loam soils with high water-holding capacity and pH 5.5 - 7.0",
+   "climate": "Hot and humid climate (20°C - 38°C) with prolonged sunshine and abundant water supply",
+   "seedRequirement": "8 - 10 kg per acre for transplanted paddy; 5 kg/acre for hybrid paddy; 20-25 kg for DSR (Direct Seeded Rice)",
+   "irrigation": "Continuous shallow water stagnation (2-5 cm) from transplanting till dough stage; drain 10 days before harvest",
+   "fertilizerGuidance": "NPK 60:25:20 kg/acre (150:60:40 kg/ha) + 10 kg Zinc Sulphate (21%) per acre at transplanting",
+   "commonDiseases": [
+    "Rice Blast",
+    "Bacterial Leaf Blight (BLB)",
+    "Sheath Blight",
+    "Brown Spot",
+    "False Smut"
+   ],
+   "pestManagement": "Control Yellow Stem Borer using Cartap Hydrochloride 4G @ 7.5 kg/acre; manage Brown Plant Hopper (BPH) with Pymetrozine 50 WG @ 120g/acre.",
+   "harvestingPeriod": "October to November when 80-85% of earheads turn golden yellow",
+   "yieldPerAcre": "22 - 30 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=800&q=80",
+   "overview": "Paddy is India’s principal staple Kharif crop cultivated across both irrigated canal belts and rainfed lowlands. Modern varieties and alternate wetting and drying (AWD) methods help save water without compromising grain yield.",
+   "seedSelection": "High-yielding Basmati (Pusa 1121, Pusa 1509, Pusa 1718) or Non-Basmati (MTU 1010, PR 126, Swarna Sub-1). Soak seeds in 10% salt water to eliminate unfilled seeds.",
+   "sowingMethod": "Raise nursery for 21-25 days. Transplant 2-3 seedlings per hill at 20x15 cm spacing. Or use DSR with seed drill in June.",
+   "irrigationSchedule": [
+    {
+     "stage": "Transplanting to Rooting",
+     "daysAfterSowing": "1-10 days",
+     "tip": "Maintain 2-3 cm standing water for rapid root anchor."
+    },
+    {
+     "stage": "Active Tillering",
+     "daysAfterSowing": "15-40 days",
+     "tip": "Practice intermittent wetting and drying to encourage deep rooting."
+    },
+    {
+     "stage": "Panicle Initiation",
+     "daysAfterSowing": "45-60 days",
+     "tip": "Critical stage; avoid any moisture stress."
+    },
+    {
+     "stage": "Flowering / Heading",
+     "daysAfterSowing": "70-85 days",
+     "tip": "Maintain 3-5 cm water level."
+    },
+    {
+     "stage": "Grain Filling",
+     "daysAfterSowing": "90-105 days",
+     "tip": "Alternate irrigation every 3-4 days."
+    },
+    {
+     "stage": "Physiological Maturity",
+     "daysAfterSowing": "115 days",
+     "tip": "Completely drain field 10 days before combine harvesting."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 1/3rd Nitrogen, entire Phosphorus, 50% Potassium and 10 kg Zinc Sulphate at final puddling.",
+    "firstTopDress": "Apply 1/3rd Nitrogen (Urea 30-35 kg/acre) at active tillering (20-25 days after transplanting).",
+    "secondTopDress": "Apply remaining 1/3rd Nitrogen + remaining Potassium at panicle initiation (45-50 DAT).",
+    "npkRatio": "3:1:1 + Zinc"
+   },
+   "weedManagement": "Apply Pre-emergence Pretilachlor 50 EC @ 600 ml/acre within 3 days of transplanting in standing water. For post-emergence broadleaf weeds, spray Bispyribac sodium 10 SC @ 80 ml/acre at 20-25 DAT.",
+   "commonPests": [
+    "Stem Borer",
+    "Brown Plant Hopper (BPH)",
+    "Leaf Folder",
+    "Gundhi Bug"
+   ],
+   "storage": "Dry paddy grains on clean tarpaulin to 13-14% moisture before milling or warehouse bag storage."
+  },
+  {
+   "id": "maize",
+   "name": "Maize (Corn)",
+   "hindiName": "मक्का",
+   "category": "Cereals",
+   "season": "Kharif",
+   "bestSowingTime": "Kharif: June 15 - July 15; Rabi: October - November; Spring: February",
+   "soilRequirement": "Deep, rich, fertile well-drained alluvial or red loamy soil with pH 6.0 - 7.5; highly sensitive to waterlogging",
+   "climate": "Warm sunny weather (21°C - 32°C). High photosynthetic efficiency (C4 plant).",
+   "seedRequirement": "7 - 8 kg per acre for single cross hybrids",
+   "irrigation": "4 to 6 irrigations; critical periods are Knee-high stage, Tasseling (pollen release), and Silking (cob development)",
+   "fertilizerGuidance": "NPK 60:24:20 kg/acre (150:60:50 kg/ha). Maize is a heavy feeder of nitrogen and potash.",
+   "commonDiseases": [
+    "Maydis Leaf Blight",
+    "Turcicum Leaf Blight",
+    "Bacterial Stalk Rot",
+    "Common Rust"
+   ],
+   "pestManagement": "Vigilantly scout for Fall Armyworm (FAW - Spodoptera frugiperda). Spray Emamectin Benzoate 5 SG @ 0.4 g/L or Chlorantraniliprole 18.5 SC @ 0.4 ml/L inside whorls.",
+   "harvestingPeriod": "85 - 110 days after sowing when husk turns dried papery brownish and black layer forms at kernel base",
+   "yieldPerAcre": "25 - 32 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1551754655-cd27e38d2076?auto=format&fit=crop&w=800&q=80",
+   "overview": "Maize is versatile crop grown, feed, and industrial starch. With hybrids like Pioneer, Syngenta, and Dekalb, maize yields up to 35 quintals per acre under optimal ridge-furrow management.",
+   "seedSelection": "Choose high-yielding certified hybrids (P3396, NK 6240, DKC 9108, PMH 1). Treat seed with Cyantraniliprole + Thiamethoxam for 3 weeks protection against FAW.",
+   "sowingMethod": "Sow on ridges at 60 cm row-to-row and 20 cm plant-to-plant spacing at a depth of 4-5 cm.",
+   "irrigationSchedule": [
+    {
+     "stage": "Germination & Seedling",
+     "daysAfterSowing": "1-10 days",
+     "tip": "Ensure soil moisture is sufficient but never stagnant."
+    },
+    {
+     "stage": "Knee-High Stage",
+     "daysAfterSowing": "30-35 days",
+     "tip": "Essential for vegetative growth; follow with earthing-up."
+    },
+    {
+     "stage": "Tasseling Stage",
+     "daysAfterSowing": "50-55 days",
+     "tip": "Pollen formation stage; moisture stress drastically reduces seed set."
+    },
+    {
+     "stage": "Silking & Grain Formation",
+     "daysAfterSowing": "65-75 days",
+     "tip": "Critical for cob filling."
+    },
+    {
+     "stage": "Grain Hardening",
+     "daysAfterSowing": "85-95 days",
+     "tip": "Light final irrigation."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 20 kg Urea + 50 kg DAP + 35 kg MOP + 10 kg Zinc Sulphate at planting.",
+    "firstTopDress": "Apply 35 kg Urea at Knee-high stage (30-35 days).",
+    "secondTopDress": "Apply 25 kg Urea at Tasseling stage (50-55 days).",
+    "npkRatio": "3:1:1"
+   },
+   "weedManagement": "Spray Atrazine 50% WP @ 800 g/acre within 48 hours of sowing on moist soil.",
+   "commonPests": [
+    "Fall Armyworm",
+    "Maize Stem Borer",
+    "Shoot Fly",
+    "Aphids"
+   ],
+   "storage": "De-husk and shell cobs once dried. Sun-dry grains to 12% moisture to avoid aflatoxin mold."
+  },
+  {
+   "id": "potato",
+   "name": "Potato",
+   "hindiName": "आलू",
+   "category": "Vegetables",
+   "season": "Rabi",
+   "bestSowingTime": "October 15 to November 10 (when night temperature drops below 20°C)",
+   "soilRequirement": "Loose, friable, well-aerated sandy loam with rich organic matter and pH 5.2 - 6.5",
+   "climate": "Cool sunny days (15°C - 22°C) and cold nights (8°C - 12°C). Tuber formation stops if night temps exceed 22°C.",
+   "seedRequirement": "12 - 15 Quintals of disease-free seed tubers per acre (30-40g tuber with 2-3 healthy eyes)",
+   "irrigation": "Light frequent irrigations every 7-10 days; avoid wetting top of the ridge to stop rot",
+   "fertilizerGuidance": "NPK 75:40:50 kg/acre (180:100:120 kg/ha). Potato is a heavy potassium consumer.",
+   "commonDiseases": [
+    "Late Blight (Phytophthora infestans)",
+    "Early Blight",
+    "Black Scurf",
+    "Common Scab"
+   ],
+   "pestManagement": "Treat tubers with Mancozeb @ 2.5g/L before planting. Spray Imidacloprid for aphids (which transmit leaf roll virus).",
+   "harvestingPeriod": "90 - 110 days after planting when foliage turns yellowish and stalks dry up",
+   "yieldPerAcre": "100 - 150 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=800&q=80",
+   "overview": "Potato is one of the highest cash-earning Rabi crops in UP, West Bengal, Bihar, and Punjab. High earthing-up and prophylactic sprays against Late Blight during winter fogs protect the harvest.",
+   "seedSelection": "Kufri Pukhraj (early), Kufri Jyoti, Kufri Bahar (3797), Kufri Chipsona-1/3 (processing). Break dormancy with 1% Thiourea if using fresh hill seeds.",
+   "sowingMethod": "Plant on ridges 60 cm apart with tuber spacing of 20 cm at 5-7 cm depth.",
+   "irrigationSchedule": [
+    {
+     "stage": "First Irrigation",
+     "daysAfterSowing": "7-10 days",
+     "tip": "Very light irrigation; do not let water breach ridge tops."
+    },
+    {
+     "stage": "Vegetative Growth",
+     "daysAfterSowing": "25-30 days",
+     "tip": "Irrigate before second earthing-up."
+    },
+    {
+     "stage": "Tuber Initiation",
+     "daysAfterSowing": "40-50 days",
+     "tip": "Critical stage; steady soil moisture ensures uniform tuber size."
+    },
+    {
+     "stage": "Tuber Bulking",
+     "daysAfterSowing": "60-75 days",
+     "tip": "Highest water demand period."
+    },
+    {
+     "stage": "Pre-Harvest Curing",
+     "daysAfterSowing": "85-90 days",
+     "tip": "Stop irrigation 10-12 days before de-haulming."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 10 tonnes FYM + 40 kg Urea + 75 kg DAP + 60 kg MOP per acre.",
+    "firstTopDress": "Apply 40 kg Urea at first earthing-up (25-30 days).",
+    "secondTopDress": "Apply 20 kg Urea + 15 kg SOP (Sulphate of Potash) at second earthing-up.",
+    "npkRatio": "1.8:1:1.2"
+   },
+   "weedManagement": "Spray Metribuzin 70% WP @ 200 g/acre within 3-4 days of planting before sprout emergence.",
+   "commonPests": [
+    "Potato Aphid",
+    "Cutworm",
+    "Potato Tuber Moth (PTM)",
+    "White Grubs"
+   ],
+   "storage": "Cure harvested tubers under shaded straw heap for 10-15 days to thicken skin. Send to temperature-controlled cold stores (2°C - 4°C for table, 8°C - 10°C with CIPC for chips)."
+  },
+  {
+   "id": "mustard",
+   "name": "Mustard (Sarson)",
+   "hindiName": "सरसों",
+   "category": "Oilseeds",
+   "season": "Rabi",
+   "bestSowingTime": "October 1 to October 25 (optimum daytime temp 25°C - 28°C)",
+   "soilRequirement": "Light to medium loam soils with good drainage; tolerates slight salinity/alkalinity (pH 6.5 - 8.0)",
+   "climate": "Cool and dry weather during vegetative and flowering stages with ample sunshine",
+   "seedRequirement": "1.5 - 2 kg per acre (avoid overly dense sowing)",
+   "irrigation": "Requires only 2 to 3 light irrigations: at Rosette/pre-flowering (30-35 days) and Siliqua pod formation (60-65 days)",
+   "fertilizerGuidance": "NPK 35:16:16 kg/acre (80:40:40 kg/ha) + 15 kg elemental Sulphur/Bentonite Sulphur per acre (crucial for oil synthesis)",
+   "commonDiseases": [
+    "White Rust (Albugo candida)",
+    "Alternaria Blight",
+    "Downy Mildew",
+    "Sclerotinia Stem Rot"
+   ],
+   "pestManagement": "Aphids (Lipaphis erysimi) attack during flowering. Spray Dimethoate 30 EC @ 1.5 ml/L or Thiamethoxam 25 WG @ 0.3 g/L late in evening to protect honeybees.",
+   "harvestingPeriod": "Mid-February to March when pods turn bright yellowish-brown and seeds rattle",
+   "yieldPerAcre": "8 - 12 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=800&q=80",
+   "overview": "Mustard is India’s chief edible oilseed crop. Adding sulphur fertilizer significantly boosts oil content above 40%. The crop requires very low water compared to wheat.",
+   "seedSelection": "Varuna, Pusa Bold, RH 749, NRCHB 101, Pioneer 45S46. Treat seeds with Metalaxyl (Apromon 35 SD) @ 6g/kg against white rust.",
+   "sowingMethod": "Line sowing at 30-45 cm row spacing and 10-15 cm plant spacing at 3-4 cm depth with seed-cum-fertilizer drill.",
+   "irrigationSchedule": [
+    {
+     "stage": "First Irrigation (Flowering Initiation)",
+     "daysAfterSowing": "30-35 days",
+     "tip": "Thin out weak plants prior to this irrigation."
+    },
+    {
+     "stage": "Second Irrigation (Pod Filling)",
+     "daysAfterSowing": "60-70 days",
+     "tip": "Skip if unseasonal winter rain occurs."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 35 kg DAP + 20 kg MOP + 15 kg Bentonite Sulphur + 20 kg Urea at sowing.",
+    "firstTopDress": "Apply 25 kg Urea after first irrigation at 35 days.",
+    "secondTopDress": "Foliar spray of 1% 19:19:19 or Boron (0.1%) during pod formation.",
+    "npkRatio": "2:1:1 + Sulphur"
+   },
+   "weedManagement": "Pre-plant incorporation of Fluchloralin 45 EC @ 800 ml/acre or Pendimethalin 30 EC @ 1.2 L/acre.",
+   "commonPests": [
+    "Mustard Aphid",
+    "Sawfly",
+    "Painted Bug",
+    "Bihar Hairy Caterpillar"
+   ],
+   "storage": "Sun-dry harvested seeds to 8% moisture. Store in dry moisture-proof bags."
+  },
+  {
+   "id": "sugarcane",
+   "name": "Sugarcane",
+   "hindiName": "गन्ना",
+   "category": "Commercial",
+   "season": "Whole Year",
+   "bestSowingTime": "Autumn planting: October; Spring planting: February - March",
+   "soilRequirement": "Deep, rich, well-drained loamy to clay-loamy soils with neutral pH 6.5 - 7.5",
+   "climate": "Tropical to sub-tropical climate with warm sunny weather (28°C - 35°C) and cool dry winter ripening period",
+   "seedRequirement": "25,000 to 30,000 two-budded setts (approx. 25-30 quintals) per acre",
+   "irrigation": "Requires 8-12 irrigations in sub-tropics; summer interval 10-12 days; winter interval 20-25 days",
+   "fertilizerGuidance": "NPK 75:30:25 kg/acre (180:60:60 kg/ha). Apply nitrogen in 3-4 split doses during formative phase.",
+   "commonDiseases": [
+    "Red Rot (Colletotrichum falcatum)",
+    "Smut",
+    "Wilt",
+    "Grassy Shoot Disease"
+   ],
+   "pestManagement": "Control Early Shoot Borer with Chlorantraniliprole 18.5 SC drenching; Top Borer with Carbofuran 3G @ 12 kg/acre in July.",
+   "harvestingPeriod": "10 to 12 months for spring crop; 12 to 14 months for autumn crop when brix refractometer reading exceeds 18°",
+   "yieldPerAcre": "350 - 450 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=800&q=80",
+   "overview": "Sugarcane is India’s major commercial agro-industrial crop supplying sugar and ethanol. Adopting trench planting and trash mulching saves up to 30% water and increases ratoon vigor.",
+   "seedSelection": "Co 0238 (Karan 4), Co 0118, CoLk 94184, Co 15023. Treat setts with Carbendazim (1g/L) for 15 minutes before planting.",
+   "sowingMethod": "Trench method at 4 feet row spacing or paired-row trench planting at 30x120 cm.",
+   "irrigationSchedule": [
+    {
+     "stage": "Germination Phase",
+     "daysAfterSowing": "0-45 days",
+     "tip": "Irrigate every 10-12 days to encourage sett sprouting."
+    },
+    {
+     "stage": "Formative / Tillering Phase",
+     "daysAfterSowing": "45-120 days",
+     "tip": "Peak water demand; mulch with trash to reduce evaporation."
+    },
+    {
+     "stage": "Grand Growth Phase",
+     "daysAfterSowing": "120-240 days",
+     "tip": "Monsoon season; ensure adequate field drainage."
+    },
+    {
+     "stage": "Ripening Phase",
+     "daysAfterSowing": "270-330 days",
+     "tip": "Withhold irrigation 20 days prior to harvest to concentrate sucrose."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 60 kg DAP + 40 kg MOP + 10 kg Zinc Sulphate in planting trenches.",
+    "firstTopDress": "Apply 35 kg Urea at 45 days (first tillering).",
+    "secondTopDress": "Apply 40 kg Urea at 75 days (second tillering).",
+    "npkRatio": "3:1:1"
+   },
+   "weedManagement": "Spray Atrazine 50% WP @ 1.2 kg/acre at 3-5 days after planting, followed by 2,4-D amine salt for broadleaf weeds.",
+   "commonPests": [
+    "Early Shoot Borer",
+    "Top Borer",
+    "Root Borer",
+    "Pyrilla",
+    "Whitefly"
+   ],
+   "storage": "Crush immediately within 24-48 hours of cutting to avoid sucrose inversion and weight loss."
+  },
+  {
+   "id": "tomato",
+   "name": "Tomato",
+   "hindiName": "टमाटर",
+   "category": "Vegetables",
+   "season": "Whole Year",
+   "bestSowingTime": "Kharif: June-July; Rabi: October-November; Summer: January-February",
+   "soilRequirement": "Deep well-drained sandy loam rich in organic humus with pH 6.0 - 7.0",
+   "climate": "Moderate temperature (18°C - 27°C). Excessive heat (>35°C) leads to flower drop.",
+   "seedRequirement": "50 - 60 grams per acre for F1 hybrid seeds",
+   "irrigation": "Drip irrigation recommended; alternate-day light irrigation; keep moisture constant to prevent blossom end rot",
+   "fertilizerGuidance": "NPK 50:40:40 kg/acre (120:100:100 kg/ha) + Calcium Nitrate and Boron foliar sprays during flowering",
+   "commonDiseases": [
+    "Tomato Leaf Curl Virus (ToLCV)",
+    "Early Blight",
+    "Late Blight",
+    "Bacterial Wilt",
+    "Damping Off"
+   ],
+   "pestManagement": "Control Whiteflies (vector of leaf curl virus) with yellow sticky traps (15-20/acre) and Diafenthiuron 50 WP @ 1g/L. Spray Spinetoram 11.7 SC for Tuta absoluta leaf miner.",
+   "harvestingPeriod": "Starts 65-75 days after transplanting; pick every 3-4 days for 6-8 weeks",
+   "yieldPerAcre": "180 - 250 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=800&q=80",
+   "overview": "Tomato is a high-demand horticultural crop grown round the year. Staking with bamboo stakes and mulching with silver-black polyethylene increases fruit quality, prevents fruit rot, and doubles harvest duration.",
+   "seedSelection": "Hybrids like US 440, Saaho (Syngenta), Abhinav (Seminis), Arka Rakshak (triple disease resistant).",
+   "sowingMethod": "Raise seedlings in 104-cavity pro-trays with coco-peat. Transplant 25-day old sturdy seedlings on raised beds with drip lines at 90x45 cm spacing.",
+   "irrigationSchedule": [
+    {
+     "stage": "Establishment Phase",
+     "daysAfterSowing": "1-10 days",
+     "tip": "Daily light drip irrigation for 30 minutes."
+    },
+    {
+     "stage": "Vegetative & Staking",
+     "daysAfterSowing": "15-35 days",
+     "tip": "Irrigate every 2 days; start fertigation."
+    },
+    {
+     "stage": "Flowering & Fruit Set",
+     "daysAfterSowing": "40-60 days",
+     "tip": "Maintain uniform soil moisture; fluctuations cause fruit cracking."
+    },
+    {
+     "stage": "Harvesting Phase",
+     "daysAfterSowing": "65-120 days",
+     "tip": "Irrigate after each picking."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 10 tonnes FYM + 50 kg DAP + 30 kg MOP + 10 kg Micronutrient mixture per acre.",
+    "firstTopDress": "Fertigate water-soluble 19:19:19 @ 3 kg/acre twice a week during vegetative stage.",
+    "secondTopDress": "Fertigate 13:0:45 (Potassium Nitrate) and Calcium Nitrate @ 3 kg/acre during fruit sizing.",
+    "npkRatio": "1.2:1:1"
+   },
+   "weedManagement": "Silver-black plastic mulch (25 micron) suppresses 95% weeds and conserves 40% soil moisture.",
+   "commonPests": [
+    "Whitefly",
+    "Fruit Borer (Helicoverpa)",
+    "Tuta Absoluta",
+    "Thrips",
+    "Spider Mites"
+   ],
+   "storage": "Harvest at breaker stage for long-distance transport. Store in plastic crates at 12°C - 15°C with 85% relative humidity."
+  },
+  {
+   "id": "onion",
+   "name": "Onion",
+   "hindiName": "प्याज",
+   "category": "Vegetables",
+   "season": "Rabi",
+   "bestSowingTime": "Rabi nursery: October-November (transplant in Dec-Jan); Kharif nursery: May-June",
+   "soilRequirement": "Deep friable sandy loam to clay loam rich in organic matter with pH 6.5 - 7.5; requires soft soil for bulb expansion",
+   "climate": "Mild climate (13°C - 24°C) during vegetative growth and warm dry weather (30°C - 35°C) at bulb maturity and curing",
+   "seedRequirement": "3.5 - 4 kg per acre for nursery raising",
+   "irrigation": "Requires 12 - 15 light irrigations at 7-10 day intervals; shallow rooted; stop irrigation 15 days before harvest",
+   "fertilizerGuidance": "NPK 40:20:30 kg/acre (100:50:80 kg/ha) + 15 kg Sulphur per acre (increases pungency and storage shelf life)",
+   "commonDiseases": [
+    "Purple Blotch (Alternaria porri)",
+    "Stemphylium Blight",
+    "Basal Rot (Fusarium)",
+    "Downy Mildew"
+   ],
+   "pestManagement": "Onion Thrips (Thrips tabaci) cause silvery streaks. Spray Fipronil 5 SC @ 1.5 ml/L or Spinosad 45 SC @ 0.3 ml/L along with a sticker.",
+   "harvestingPeriod": "120 - 140 days after transplanting when 50% of tops fall over (neck fall)",
+   "yieldPerAcre": "100 - 140 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1518977956812-cd3dbadaaf31?auto=format&fit=crop&w=800&q=80",
+   "overview": "Onion is a commercial vegetable with nationwide market turnover centered in Maharashtra (Nashik), MP, and Rajasthan. Proper curing is the single most critical factor for 4-6 months storage viability.",
+   "seedSelection": "Rabi: N-53, Agrifound Light Red, Bhima Kiran, Bhima Shakti. Kharif: Bhima Super, Agrifound Dark Red.",
+   "sowingMethod": "Transplant 45-day old seedlings at 15x10 cm spacing on raised flat beds.",
+   "irrigationSchedule": [
+    {
+     "stage": "Transplanting",
+     "daysAfterSowing": "Day 1 & Day 4",
+     "tip": "Life-saving irrigation immediately after planting."
+    },
+    {
+     "stage": "Vegetative Growth",
+     "daysAfterSowing": "15-50 days",
+     "tip": "Irrigate every 7-8 days."
+    },
+    {
+     "stage": "Bulb Initiation & Development",
+     "daysAfterSowing": "55-100 days",
+     "tip": "Critical period; avoid waterlogging which causes rotting."
+    },
+    {
+     "stage": "Pre-Harvest Drying",
+     "daysAfterSowing": "115-125 days",
+     "tip": "Completely stop watering when neck fall reaches 20%."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 10 tonnes FYM + 45 kg DAP + 35 kg MOP + 15 kg Sulphur per acre.",
+    "firstTopDress": "Apply 25 kg Urea at 30 days after transplanting.",
+    "secondTopDress": "Apply 20 kg Urea at 45 days (do not apply late urea causes thick necks).",
+    "npkRatio": "2:1:1.5 + Sulphur"
+   },
+   "weedManagement": "Spray Oxyfluorfen 23.5% EC @ 150 ml/acre or Pendimethalin 30 EC @ 1 L/acre pre-emergence.",
+   "commonPests": [
+    "Onion Thrips",
+    "Maggot / Bulb Fly",
+    "Armyworm"
+   ],
+   "storage": "Field-cure under shade for 7-10 days with leaves attached. Cut tops leaving 2.5 cm neck. Store in ventilated bamboo/mesh onion storage structures."
+  },
+  {
+   "id": "cotton",
+   "name": "Cotton",
+   "hindiName": "कपास",
+   "category": "Commercial",
+   "season": "Kharif",
+   "bestSowingTime": "North India: Mid-April to May 15; Central/South: June to July with monsoon",
+   "soilRequirement": "Deep Black Cotton Soil (Regur) or deep alluvial fertile soils with good drainage and pH 7.0 - 8.5",
+   "climate": "Warm and sunny (25°C - 35°C). Requires 180-200 frost-free days and bright sunshine during boll bursting.",
+   "seedRequirement": "1.5 - 2 packets (450g each + non-Bt refuge) per acre for Bt hybrids",
+   "irrigation": "4 to 6 irrigations in irrigated belts; drought tolerant tap root system; sensitive to moisture stress at flowering and boll development",
+   "fertilizerGuidance": "NPK 60:30:30 kg/acre (150:75:75 kg/ha) + Magnesium Sulphate and Boron foliar spray at boll development",
+   "commonDiseases": [
+    "Cotton Leaf Curl Virus (CLCuV)",
+    "Bacterial Blight / Angular Leaf Spot",
+    "Root Rot",
+    "Grey Mildew"
+   ],
+   "pestManagement": "Monitor Pink Bollworm (Pectinophora gossypiella) using pheromone traps (5/acre). Spray Profenofos 50 EC @ 2 ml/L or Chlorantraniliprole 18.5 SC @ 0.3 ml/L.",
+   "harvestingPeriod": "October to December in 3 to 4 hand-picking rounds in dry morning hours",
+   "yieldPerAcre": "8 - 14 Quintals/Acre (seed cotton)",
+   "image": "https://images.unsplash.com/photo-1606041008023-472dfb5e530f?auto=format&fit=crop&w=800&q=80",
+   "overview": "Known as \"White Gold\", cotton supports millions of farmers across Gujarat, Maharashtra, Telangana, and Punjab. Integrating pheromone traps and refuge crops ensures sustainability against bollworm resistance.",
+   "seedSelection": "BG-II hybrids (RCH 659, Ajeet 155, Jaadoo, Bollgard II). Sow refuge non-Bt border rows.",
+   "sowingMethod": "Dibble seeds at 90x60 cm or 120x45 cm spacing on ridges.",
+   "irrigationSchedule": [
+    {
+     "stage": "Seedling Phase",
+     "daysAfterSowing": "1-30 days",
+     "tip": "First irrigation 25-30 days after sowing."
+    },
+    {
+     "stage": "Square Formation",
+     "daysAfterSowing": "45-60 days",
+     "tip": "Adequate moisture critical for bud retention."
+    },
+    {
+     "stage": "Flowering & Boll Setting",
+     "daysAfterSowing": "70-110 days",
+     "tip": "Never allow soil to crack in this period."
+    },
+    {
+     "stage": "Boll Bursting",
+     "daysAfterSowing": "120-150 days",
+     "tip": "Withhold irrigation to facilitate clean bursting."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 50 kg DAP + 30 kg MOP + 10 kg Zinc Sulphate at planting.",
+    "firstTopDress": "Apply 30 kg Urea at square formation (45 days).",
+    "secondTopDress": "Apply 30 kg Urea + 10 kg MOP at peak flowering (75 days).",
+    "npkRatio": "2:1:1"
+   },
+   "weedManagement": "Apply Pendimethalin 30 EC @ 1 L/acre pre-emergence followed by inter-culture bullock/tractor hoeing.",
+   "commonPests": [
+    "Pink Bollworm",
+    "American Bollworm",
+    "Whitefly",
+    "Jassids",
+    "Aphids"
+   ],
+   "storage": "Pick clean cotton free of leaves and trash into cotton bags (never synthetic plastic bags). Store in dry, rodent-proof sheds."
+  },
+  {
+   "id": "pulses-gram",
+   "name": "Pulses (Chickpea / Chana)",
+   "hindiName": "चना (दलहन)",
+   "category": "Pulses",
+   "season": "Rabi",
+   "bestSowingTime": "October 15 to November 10",
+   "soilRequirement": "Well-drained light to heavy loams; avoids waterlogged soils; pH 6.0 - 7.5",
+   "climate": "Cool dry climate (15°C - 25°C). High frost sensitivity during flowering.",
+   "seedRequirement": "30 - 35 kg per acre for Desi chana; 40-45 kg/acre for Kabuli chana",
+   "irrigation": "Requires only 1 to 2 light irrigations: at pre-flowering branch initiation (45 days) and pod filling (75 days). Avoid irrigating during peak flowering.",
+   "fertilizerGuidance": "NPK 10:20:10 kg/acre (25:50:25 kg/ha) + seed inoculation with Rhizobium and PSB bio-fertilizers",
+   "commonDiseases": [
+    "Fusarium Wilt",
+    "Ascochyta Blight",
+    "Dry Root Rot",
+    "Collar Rot"
+   ],
+   "pestManagement": "Gram Pod Borer (Helicoverpa armigera) is main threat. Install bird perches (15/acre) and spray NPV (Nuclear Polyhedrosis Virus) or Chlorantraniliprole 18.5 SC @ 0.3 ml/L.",
+   "harvestingPeriod": "Late February to March when leaves turn golden-brown and pods rattle",
+   "yieldPerAcre": "8 - 12 Quintals/Acre",
+   "image": "https://images.unsplash.com/photo-1515543237350-b3eea1ec8082?auto=format&fit=crop&w=800&q=80",
+   "overview": "Chickpea (Gram) is India’s premier pulse crop. It fixes up to 40 kg of atmospheric nitrogen per acre, naturally enriching the soil for the next Kharif crop.",
+   "seedSelection": "Desi: JG 14, JG 16, JAKI 9218, Pusa 362. Kabuli: Pusa 1053, KAK 2. Treat with Trichoderma @ 4g/kg.",
+   "sowingMethod": "Sow at 30 cm row-to-row spacing and 10 cm plant-to-plant spacing at 7-10 cm depth (deep sowing protects against wilt).",
+   "irrigationSchedule": [
+    {
+     "stage": "Branching Stage",
+     "daysAfterSowing": "40-45 days",
+     "tip": "First light irrigation; nip top terminal shoots to encourage branching."
+    },
+    {
+     "stage": "Pod Development",
+     "daysAfterSowing": "70-75 days",
+     "tip": "Second light irrigation; do NOT irrigate during active flowering."
+    }
+   ],
+   "nutrientManagement": {
+    "basal": "Apply 50 kg DAP + 15 kg MOP + 10 kg Sulphur per acre at sowing time.",
+    "firstTopDress": "Foliar spray of 2% Urea or 19:19:19 at 45 days.",
+    "secondTopDress": "Foliar spray of 2% DAP or Potassium Nitrate during pod development.",
+    "npkRatio": "1:2:1 (Legume ratio)"
+   },
+   "weedManagement": "Pendimethalin 30 EC @ 1 L/acre within 2 days of sowing in moist soil.",
+   "commonPests": [
+    "Gram Pod Borer (Helicoverpa)",
+    "Cutworm",
+    "Aphid"
+   ],
+   "storage": "Dry to 9-10% moisture. Mix neem leaf powder or edible mustard oil (5ml/kg) to protect against pulse beetle (Callosobruchus)."
+  }
+ ],
+ "DISTRICT_WEATHER": {
+  "Lucknow": {
+   "district": "Lucknow",
+   "state": "Uttar Pradesh",
+   "current": {
+    "temp": 28,
+    "feelsLike": 30,
+    "condition": "Partly Cloudy",
+    "icon": "CloudSun",
+    "humidity": 62,
+    "windSpeed": 11,
+    "rainProbability": 20,
+    "uvIndex": 6,
+    "location": "Lucknow, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "airQuality": "Satisfactory (AQI 78)"
+   },
+   "forecast": [
+    {
+     "day": "Today",
+     "date": "Oct 02",
+     "tempMax": 29,
+     "tempMin": 21,
+     "condition": "Partly Cloudy",
+     "rainProbability": 20,
+     "icon": "CloudSun"
+    },
+    {
+     "day": "Friday",
+     "date": "Oct 03",
+     "tempMax": 27,
+     "tempMin": 20,
+     "condition": "Scattered Showers",
+     "rainProbability": 65,
+     "icon": "CloudRain"
+    },
+    {
+     "day": "Saturday",
+     "date": "Oct 04",
+     "tempMax": 28,
+     "tempMin": 19,
+     "condition": "Light Rain / Overcast",
+     "rainProbability": 45,
+     "icon": "CloudDrizzle"
+    },
+    {
+     "day": "Sunday",
+     "date": "Oct 05",
+     "tempMax": 30,
+     "tempMin": 19,
+     "condition": "Mostly Sunny",
+     "rainProbability": 10,
+     "icon": "Sun"
+    },
+    {
+     "day": "Monday",
+     "date": "Oct 06",
+     "tempMax": 31,
+     "tempMin": 20,
+     "condition": "Clear Sky",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Tuesday",
+     "date": "Oct 07",
+     "tempMax": 31,
+     "tempMin": 21,
+     "condition": "Sunny",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Wednesday",
+     "date": "Oct 08",
+     "tempMax": 30,
+     "tempMin": 20,
+     "condition": "Clear Sky",
+     "rainProbability": 10,
+     "icon": "Sun"
+    }
+   ],
+   "hourly": [
+    {
+     "time": "06:00 AM",
+     "temp": 22,
+     "pop": 10,
+     "condition": "Morning Mist"
+    },
+    {
+     "time": "09:00 AM",
+     "temp": 25,
+     "pop": 15,
+     "condition": "Partly Cloudy"
+    },
+    {
+     "time": "12:00 PM",
+     "temp": 28,
+     "pop": 20,
+     "condition": "Partly Cloudy"
+    },
+    {
+     "time": "03:00 PM",
+     "temp": 29,
+     "pop": 25,
+     "condition": "Scattered Clouds"
+    },
+    {
+     "time": "06:00 PM",
+     "temp": 26,
+     "pop": 30,
+     "condition": "Cloudy"
+    },
+    {
+     "time": "09:00 PM",
+     "temp": 24,
+     "pop": 35,
+     "condition": "Overcast"
+    },
+    {
+     "time": "12:00 AM",
+     "temp": 22,
+     "pop": 40,
+     "condition": "Light Passing Shower"
+    }
+   ],
+   "alerts": [
+    {
+     "id": "w1",
+     "title": "Rain Expected Tomorrow — Spray Advisory",
+     "severity": "high",
+     "message": "Scattered rainfall (65% probability) is expected tomorrow afternoon across Lucknow and surrounding blocks.",
+     "actionRequired": "Postpone foliar pesticide sprays and chemical urea broadcast by 24-48 hours to avoid chemical runoff.",
+     "validUntil": "Valid till tomorrow 8:00 PM"
+    },
+    {
+     "id": "w2",
+     "title": "Optimal Field Preparation Window Approaching",
+     "severity": "low",
+     "message": "Clearing skies with mild daytime temperatures (29°C - 31°C) expected from Sunday onward.",
+     "actionRequired": "Ideal moisture condition for early Rabi land tillage, ploughing, and mustard bed preparation.",
+     "validUntil": "Next 5 days"
+    }
+   ]
+  },
+  "Ayodhya": {
+   "district": "Ayodhya",
+   "state": "Uttar Pradesh",
+   "current": {
+    "temp": 27,
+    "feelsLike": 29,
+    "condition": "Overcast",
+    "icon": "Cloud",
+    "humidity": 68,
+    "windSpeed": 14,
+    "rainProbability": 40,
+    "uvIndex": 5,
+    "location": "Ayodhya, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "airQuality": "Good (AQI 54)"
+   },
+   "forecast": [
+    {
+     "day": "Today",
+     "date": "Oct 02",
+     "tempMax": 28,
+     "tempMin": 21,
+     "condition": "Overcast",
+     "rainProbability": 40,
+     "icon": "Cloud"
+    },
+    {
+     "day": "Friday",
+     "date": "Oct 03",
+     "tempMax": 26,
+     "tempMin": 19,
+     "condition": "Moderate Rain",
+     "rainProbability": 75,
+     "icon": "CloudRain"
+    },
+    {
+     "day": "Saturday",
+     "date": "Oct 04",
+     "tempMax": 27,
+     "tempMin": 19,
+     "condition": "Scattered Showers",
+     "rainProbability": 50,
+     "icon": "CloudDrizzle"
+    },
+    {
+     "day": "Sunday",
+     "date": "Oct 05",
+     "tempMax": 29,
+     "tempMin": 20,
+     "condition": "Partly Sunny",
+     "rainProbability": 15,
+     "icon": "CloudSun"
+    },
+    {
+     "day": "Monday",
+     "date": "Oct 06",
+     "tempMax": 30,
+     "tempMin": 20,
+     "condition": "Sunny",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Tuesday",
+     "date": "Oct 07",
+     "tempMax": 30,
+     "tempMin": 21,
+     "condition": "Clear",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Wednesday",
+     "date": "Oct 08",
+     "tempMax": 30,
+     "tempMin": 20,
+     "condition": "Clear",
+     "rainProbability": 10,
+     "icon": "Sun"
+    }
+   ],
+   "hourly": [
+    {
+     "time": "06:00 AM",
+     "temp": 21,
+     "pop": 20,
+     "condition": "Misty"
+    },
+    {
+     "time": "09:00 AM",
+     "temp": 24,
+     "pop": 30,
+     "condition": "Cloudy"
+    },
+    {
+     "time": "12:00 PM",
+     "temp": 27,
+     "pop": 40,
+     "condition": "Overcast"
+    },
+    {
+     "time": "03:00 PM",
+     "temp": 27,
+     "pop": 45,
+     "condition": "Cloudy"
+    },
+    {
+     "time": "06:00 PM",
+     "temp": 25,
+     "pop": 50,
+     "condition": "Drizzle"
+    },
+    {
+     "time": "09:00 PM",
+     "temp": 23,
+     "pop": 60,
+     "condition": "Light Rain"
+    }
+   ],
+   "alerts": [
+    {
+     "id": "w-ayo-1",
+     "title": "Moderate Rainfall Advisory",
+     "severity": "high",
+     "message": "Rain expected tomorrow with 75% probability across Saryu basin.",
+     "actionRequired": "Ensure drainage channels around standing vegetable and nursery beds are clear.",
+     "validUntil": "Tomorrow night"
+    }
+   ]
+  },
+  "Ludhiana": {
+   "district": "Ludhiana",
+   "state": "Punjab",
+   "current": {
+    "temp": 29,
+    "feelsLike": 30,
+    "condition": "Clear Sky",
+    "icon": "Sun",
+    "humidity": 48,
+    "windSpeed": 9,
+    "rainProbability": 5,
+    "uvIndex": 7,
+    "location": "Ludhiana, Punjab",
+    "state": "Punjab",
+    "airQuality": "Moderate (AQI 105)"
+   },
+   "forecast": [
+    {
+     "day": "Today",
+     "date": "Oct 02",
+     "tempMax": 31,
+     "tempMin": 18,
+     "condition": "Clear Sky",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Friday",
+     "date": "Oct 03",
+     "tempMax": 30,
+     "tempMin": 18,
+     "condition": "Sunny",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Saturday",
+     "date": "Oct 04",
+     "tempMax": 30,
+     "tempMin": 17,
+     "condition": "Sunny",
+     "rainProbability": 10,
+     "icon": "Sun"
+    },
+    {
+     "day": "Sunday",
+     "date": "Oct 05",
+     "tempMax": 31,
+     "tempMin": 18,
+     "condition": "Clear",
+     "rainProbability": 0,
+     "icon": "Sun"
+    },
+    {
+     "day": "Monday",
+     "date": "Oct 06",
+     "tempMax": 32,
+     "tempMin": 19,
+     "condition": "Sunny",
+     "rainProbability": 0,
+     "icon": "Sun"
+    },
+    {
+     "day": "Tuesday",
+     "date": "Oct 07",
+     "tempMax": 32,
+     "tempMin": 19,
+     "condition": "Clear",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Wednesday",
+     "date": "Oct 08",
+     "tempMax": 31,
+     "tempMin": 18,
+     "condition": "Clear",
+     "rainProbability": 0,
+     "icon": "Sun"
+    }
+   ],
+   "hourly": [
+    {
+     "time": "06:00 AM",
+     "temp": 19,
+     "pop": 0,
+     "condition": "Sunny"
+    },
+    {
+     "time": "09:00 AM",
+     "temp": 24,
+     "pop": 0,
+     "condition": "Sunny"
+    },
+    {
+     "time": "12:00 PM",
+     "temp": 29,
+     "pop": 5,
+     "condition": "Clear"
+    },
+    {
+     "time": "03:00 PM",
+     "temp": 31,
+     "pop": 5,
+     "condition": "Sunny"
+    },
+    {
+     "time": "06:00 PM",
+     "temp": 26,
+     "pop": 0,
+     "condition": "Clear"
+    }
+   ],
+   "alerts": [
+    {
+     "id": "w-lud-1",
+     "title": "Paddy Combine Harvesting Window Favorable",
+     "severity": "low",
+     "message": "Continuous dry sunny weather with low relative humidity (45-50%) will persist for the next 7 days.",
+     "actionRequired": "Excellent conditions for harvesting mature PR-126 and Basmati varieties. Avoid residue burning.",
+     "validUntil": "Next 7 days"
+    }
+   ]
+  },
+  "Indore": {
+   "district": "Indore",
+   "state": "Madhya Pradesh",
+   "current": {
+    "temp": 29,
+    "feelsLike": 31,
+    "condition": "Sunny",
+    "icon": "Sun",
+    "humidity": 55,
+    "windSpeed": 12,
+    "rainProbability": 10,
+    "uvIndex": 7,
+    "location": "Indore, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "airQuality": "Good (AQI 62)"
+   },
+   "forecast": [
+    {
+     "day": "Today",
+     "date": "Oct 02",
+     "tempMax": 30,
+     "tempMin": 19,
+     "condition": "Sunny",
+     "rainProbability": 10,
+     "icon": "Sun"
+    },
+    {
+     "day": "Friday",
+     "date": "Oct 03",
+     "tempMax": 31,
+     "tempMin": 20,
+     "condition": "Sunny",
+     "rainProbability": 10,
+     "icon": "Sun"
+    },
+    {
+     "day": "Saturday",
+     "date": "Oct 04",
+     "tempMax": 30,
+     "tempMin": 19,
+     "condition": "Partly Cloudy",
+     "rainProbability": 20,
+     "icon": "CloudSun"
+    },
+    {
+     "day": "Sunday",
+     "date": "Oct 05",
+     "tempMax": 30,
+     "tempMin": 19,
+     "condition": "Clear",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Monday",
+     "date": "Oct 06",
+     "tempMax": 31,
+     "tempMin": 20,
+     "condition": "Clear",
+     "rainProbability": 0,
+     "icon": "Sun"
+    },
+    {
+     "day": "Tuesday",
+     "date": "Oct 07",
+     "tempMax": 32,
+     "tempMin": 20,
+     "condition": "Clear",
+     "rainProbability": 5,
+     "icon": "Sun"
+    },
+    {
+     "day": "Wednesday",
+     "date": "Oct 08",
+     "tempMax": 31,
+     "tempMin": 19,
+     "condition": "Sunny",
+     "rainProbability": 0,
+     "icon": "Sun"
+    }
+   ],
+   "hourly": [
+    {
+     "time": "06:00 AM",
+     "temp": 20,
+     "pop": 5,
+     "condition": "Clear"
+    },
+    {
+     "time": "09:00 AM",
+     "temp": 25,
+     "pop": 5,
+     "condition": "Sunny"
+    },
+    {
+     "time": "12:00 PM",
+     "temp": 29,
+     "pop": 10,
+     "condition": "Sunny"
+    },
+    {
+     "time": "03:00 PM",
+     "temp": 30,
+     "pop": 10,
+     "condition": "Sunny"
+    },
+    {
+     "time": "06:00 PM",
+     "temp": 27,
+     "pop": 5,
+     "condition": "Clear"
+    }
+   ],
+   "alerts": [
+    {
+     "id": "w-ind-1",
+     "title": "High Afternoon Soil Evaporation Rate",
+     "severity": "moderate",
+     "message": "Bright sunny skies with 31°C peaks and wind speeds up to 15 km/h.",
+     "actionRequired": "Check soil moisture for newly sown gram and mustard. Irrigate during late evening hours if needed.",
+     "validUntil": "Oct 05"
+    }
+   ]
+  }
+ },
+ "GOVERNMENT_SCHEMES_DATA": [
+  {
+   "id": "pm-kisan",
+   "name": "PM-KISAN (Pradhan Mantri Kisan Samman Nidhi)",
+   "hindiName": "प्रधानमंत्री किसान सम्मान निधि",
+   "category": "Direct Income",
+   "isPopular": true,
+   "authority": "Ministry of Agriculture & Farmers Welfare, Government of India",
+   "overview": "A Central Sector Scheme providing assured income support to all landholding farmer families across the country to supplement their financial needs for procuring agricultural inputs and domestic obligations.",
+   "benefits": [
+    "₹6,000 per year directly transferred to the registered Aadhaar-linked bank account.",
+    "Disbursed in 3 equal installments of ₹2,000 every 4 months (April-July, August-November, December-March).",
+    "Direct Benefit Transfer (DBT) ensures complete transparency without middlemen."
+   ],
+   "eligibility": [
+    "All landholding farmer families who have cultivable land in their names.",
+    "Subject to exclusion criteria: Institutional landholders, former/present holders of constitutional posts, ministers, MPs, MLAs, municipal chairpersons, and income-tax payees in the last assessment year."
+   ],
+   "requiredDocuments": [
+    "Aadhaar Card (Mandatory)",
+    "Proof of Citizenship / Landholding papers (Khasra / Khatauni / Jamabandi)",
+    "Active bank account linked with Aadhaar & NPCI (National Payments Corporation of India)",
+    "Mobile number linked with Aadhaar for OTP verification"
+   ],
+   "applicationProcess": [
+    "Step 1: Visit the official portal pmkisan.gov.in and click on \"New Farmer Registration\".",
+    "Step 2: Enter your 12-digit Aadhaar number, state, district, and mobile number.",
+    "Step 3: Submit OTP and enter land details (Khasra / Khatauni number) and upload land record copy.",
+    "Step 4: Complete mandatory e-KYC using Aadhaar OTP or facial recognition through the PM-KISAN mobile app.",
+    "Step 5: District agriculture authorities verify land records before enrollment."
+   ],
+   "officialWebsite": "https://pmkisan.gov.in"
+  },
+  {
+   "id": "pmfby",
+   "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+   "hindiName": "प्रधानमंत्री फसल बीमा योजना",
+   "category": "Insurance",
+   "isPopular": true,
+   "authority": "Ministry of Agriculture & Farmers Welfare, Government of India",
+   "overview": "Comprehensive yield-based and weather-index crop insurance scheme designed to provide financial support to farmers suffering crop loss or damage arising from unforeseen weather events, pests, and natural calamities.",
+   "benefits": [
+    "Very low farmer share of premium: Maximum 2% for Kharif food/oilseeds, 1.5% for Rabi crops, and 5% for annual commercial/horticultural crops.",
+    "Remaining actuarial premium is heavily subsidized 50:50 by the Central and State Governments.",
+    "Covers prevented sowing, standing crop damage (drought, flood, pests), post-harvest losses up to 14 days, and localized calamities (hailstorm, landslide)."
+   ],
+   "eligibility": [
+    "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas.",
+    "Voluntary for all non-loanee and loanee farmers.",
+    "Farmer must have insurable interest in the notified crop."
+   ],
+   "requiredDocuments": [
+    "Aadhaar Card",
+    "Land ownership documents (RoR / Khasra-Khatauni) or valid tenancy agreement / sharecropper certificate",
+    "Crop Sowing Certificate issued by Patwari / Revenue Officer / Gram Pradhan",
+    "Bank passbook copy with IFSC and account number"
+   ],
+   "applicationProcess": [
+    "Step 1: Visit pmfby.gov.in or your nearest Common Service Centre (CSC) / bank branch before crop cut-off date.",
+    "Step 2: Log in or apply through CSC VLE.",
+    "Step 3: Select State, Scheme, Season (Kharif / Rabi), and Year.",
+    "Step 4: Input land survey details and crop sown; pay nominal farmer premium online.",
+    "Step 5: Download insurance receipt and policy acknowledgment number. Report damage within 72 hours via Crop Insurance App."
+   ],
+   "officialWebsite": "https://pmfby.gov.in"
+  },
+  {
+   "id": "kcc",
+   "name": "Kisan Credit Card (KCC) Scheme",
+   "hindiName": "किसान क्रेडिट कार्ड योजना",
+   "category": "Credit",
+   "isPopular": true,
+   "authority": "Reserve Bank of India (RBI) & NABARD",
+   "overview": "A credit facility that meets the short-term credit requirements for cultivation of crops, post-harvest expenses, working capital for maintenance of farm assets, and allied activities like animal husbandry and fisheries.",
+   "benefits": [
+    "Collateral-free agricultural loan up to ₹1.60 lakh (extendable to ₹3 lakh with simple land hypothecation).",
+    "Concessional interest rate of 7% p.a., with additional 3% prompt repayment incentive (PRI) — bringing effective interest down to just 4% per annum.",
+    "ATM-enabled RuPay debit card allowing flexible withdrawals and repayments crop harvest cycle.",
+    "Built-in accidental insurance coverage up to ₹50,000."
+   ],
+   "eligibility": [
+    "All individual / joint farmers, owner cultivators, tenant farmers, oral lessees, and sharecroppers.",
+    "Self Help Groups (SHGs) or Joint Liability Groups (JLGs) of farmers.",
+    "Farmers involved in dairy, poultry, sheep/goat rearing, and inland aquaculture."
+   ],
+   "requiredDocuments": [
+    "Duly filled KCC Application form from issuing bank",
+    "Identity Proof (Aadhaar, Voter ID, PAN card)",
+    "Address proof",
+    "Land title records (Revenue extract / Khatoni certified by revenue authority)",
+    "Crop cultivation declaration and no-dues certificate from nearby financial institutions"
+   ],
+   "applicationProcess": [
+    "Step 1: Obtain one-page simplified KCC form from public sector bank, RRB, cooperative bank, or download from official bank portals.",
+    "Step 2: Fill personal details, land survey number, and proposed cropping pattern.",
+    "Step 3: Submit at local bank branch with land record copy.",
+    "Step 4: Bank is mandated by government to process and issue KCC within 14 working days of receiving complete application."
+   ],
+   "officialWebsite": "https://www.myscheme.gov.in/schemes/kcc"
+  },
+  {
+   "id": "soil-health-card",
+   "name": "Soil Health Card Scheme",
+   "hindiName": "मृदा स्वास्थ्य कार्ड योजना",
+   "category": "Soil & Inputs",
+   "authority": "Department of Agriculture & Farmers Welfare",
+   "overview": "Government initiative to promote balanced nutrient application and improve soil organic health by providing farmers with periodic soil test reports detailing 12 critical chemical and physical parameters.",
+   "benefits": [
+    "Free testing of soil samples for 12 parameters: Macro-nutrients (N, P, K), Secondary-nutrient (S), Micronutrients (Zn, Fe, Cu, Mn, Bo), and Physical parameters (pH, EC, Organic Carbon).",
+    "Customized fertilizer dosage recommendations to save expenditure on unnecessary Urea / DAP.",
+    "Prevents soil degradation and salinity buildup."
+   ],
+   "eligibility": [
+    "All farmers cultivating agricultural land in India. Samples collected in a grid pattern (2.5 ha for irrigated, 10 ha for rainfed)."
+   ],
+   "requiredDocuments": [
+    "Aadhaar card details of land owner",
+    "Plot / survey number (Khasra number) for soil collection tagging"
+   ],
+   "applicationProcess": [
+    "Step 1: Agriculture field assistants collect soil samples from your field using GPS tagging.",
+    "Step 2: Samples sent to certified district Soil Testing Laboratories (STLs).",
+    "Step 3: Check and download digital card online at soilhealth.dac.gov.in by entering State, District, Sub-District, and Farmer Name."
+   ],
+   "officialWebsite": "https://soilhealth.dac.gov.in"
+  },
+  {
+   "id": "aif",
+   "name": "Agriculture Infrastructure Fund (AIF)",
+   "hindiName": "कृषि अवसंरचना कोष",
+   "category": "Infrastructure",
+   "authority": "Ministry of Agriculture & Farmers Welfare",
+   "overview": "A pan-India central financing facility of ₹1 lakh crore for investing in viable projects for post-harvest management infrastructure and community farming assets.",
+   "benefits": [
+    "3% per annum interest subvention on loans up to ₹2 crore for a maximum tenure of 7 years.",
+    "Credit guarantee coverage under CGTMSE for loans up to ₹2 crore without collateral requirement.",
+    "Eligible projects: Warehouses, silos, cold storage, pack-houses, sorting & grading units, smart agriculture equipment."
+   ],
+   "eligibility": [
+    "Primary Agricultural Credit Societies (PACS), Marketing Cooperative Societies, Farmer Producers Organizations (FPOs), SHGs, Agri-entrepreneurs, and Start-ups."
+   ],
+   "requiredDocuments": [
+    "Detailed Project Report (DPR)",
+    "Entity Registration documents (PAN, GSTIN, Aadhaar of promoters)",
+    "Land ownership or lease deed for minimum 10 years",
+    "Bank account statements for last 6 months"
+   ],
+   "applicationProcess": [
+    "Step 1: Register on the online portal agriinfra.dac.gov.in.",
+    "Step 2: Fill project details, loan amount required, and choose preferred lending institution.",
+    "Step 3: Ministry conducts preliminary vetting and forwards to selected bank for sanction.",
+    "Step 4: Bank sanctions loan and portal automatically tracks interest subvention credits."
+   ],
+   "officialWebsite": "https://agriinfra.dac.gov.in"
+  },
+  {
+   "id": "pkvy",
+   "name": "Paramparagat Krishi Vikas Yojana (PKVY)",
+   "hindiName": "परम्परागत कृषि विकास योजना",
+   "category": "Organic Farming",
+   "authority": "National Mission on Sustainable Agriculture (NMSA)",
+   "overview": "Flagship program to promote organic farming in India through cluster approach and Participatory Guarantee System (PGS) certification, supporting chemical-free agriculture.",
+   "benefits": [
+    "Financial assistance of ₹50,000 per hectare for 3 years.",
+    "₹31,000 per hectare (62%) provided directly to farmers through DBT for organic inputs (bio-fertilizers, vermicompost, botanical extracts).",
+    "Free PGS-India organic certification and value addition branding support."
+   ],
+   "eligibility": [
+    "Farmers willing to form clusters of 20 or more farmers with a contiguous area of 20 hectares (50 acres)."
+   ],
+   "requiredDocuments": [
+    "Cluster formation resolution and farmer list with Aadhaar numbers",
+    "Land record documents of cluster members",
+    "Joint Bank Account of the cluster / individual accounts for DBT"
+   ],
+   "applicationProcess": [
+    "Step 1: Approach District Agriculture Officer or Regional Council for PKVY cluster registration.",
+    "Step 2: Sign peer review commitment under PGS-India certification portal (pgsindia-ncof.gov.in).",
+    "Step 3: Receive first installment for organic composting and input preparation."
+   ],
+   "officialWebsite": "https://pgsindia-ncof.gov.in"
+  },
+  {
+   "id": "smam",
+   "name": "Sub-Mission on Agricultural Mechanization (SMAM)",
+   "hindiName": "कृषि यंत्रीकरण उप-मिशन",
+   "category": "Machinery",
+   "authority": "Department of Agriculture, Cooperation & Farmers Welfare",
+   "overview": "Promotes agricultural mechanization among small and marginal farmers and in regions with low farm power availability through subsidies on tractors, implements, and Custom Hiring Centres (CHCs).",
+   "benefits": [
+    "40% to 50% capital subsidy on purchase of tractors, rotavators, laser land levelers, happy seeders, zero-till drills, and combine harvesters.",
+    "Higher subsidy (up to 50-80%) for SC, ST, Small/Marginal farmers, and women farmers.",
+    "Assistance up to ₹10 lakh for establishing farm machinery Custom Hiring Centres (CHCs)."
+   ],
+   "eligibility": [
+    "All Indian farmers with valid land records. Priority given to small/marginal farmers and FPOs."
+   ],
+   "requiredDocuments": [
+    "Aadhaar card & Voter ID",
+    "Land ownership records (Khasra-Khatauni)",
+    "Bank passbook copy",
+    "Quotation of approved agricultural equipment from registered authorized dealer"
+   ],
+   "applicationProcess": [
+    "Step 1: Register on the Central SMAM portal agrimachinery.nic.in or respective State DBT agriculture portal (e.g. upagriculture.com).",
+    "Step 2: Select desired farm implement from approved manufacturers list.",
+    "Step 3: Submit application with dealer quotation; verify token via lottery/first-come system.",
+    "Step 4: Purchase machine and upload invoice for direct subsidy disbursement to bank."
+   ],
+   "officialWebsite": "https://agrimachinery.nic.in"
+  }
+ ],
+ "SOIL_TYPES": [
+  {
+   "id": "alluvial",
+   "name": "Alluvial Soil (जलोढ़ मिट्टी)",
+   "hindiName": "जलोढ़ मिट्टी",
+   "characteristics": "Deposited by rivers (Indus, Ganga, Brahmaputra); extremely fertile, rich in potash and lime but usually deficient in nitrogen and organic matter.",
+   "phRange": "6.5 - 8.4",
+   "waterRetention": "Moderate",
+   "dominantRegions": [
+    "Punjab",
+    "Haryana",
+    "Uttar Pradesh",
+    "Bihar",
+    "West Bengal",
+    "Assam"
+   ],
+   "bestSuitedCrops": [
+    "Wheat",
+    "Rice",
+    "Sugarcane",
+    "Maize",
+    "Mustard",
+    "Potato",
+    "Pulses"
+   ],
+   "organicMatterContent": "Low to Medium (0.3% - 0.6%)",
+   "managementTips": [
+    "Incorporate 4-5 tonnes of well-decomposed FYM or vermicompost per acre annually.",
+    "Grow green manure crops like Dhaincha or Sunn hemp during summer before paddy transplanting.",
+    "Split nitrogen (Urea) into 3 doses to minimize leaching into groundwater."
+   ]
+  },
+  {
+   "id": "black",
+   "name": "Black Cotton Soil / Regur (काली मिट्टी)",
+   "hindiName": "काली मिट्टी (रेगुर)",
+   "characteristics": "Clayey texture with high montmorillonite clay; swells and turns sticky when wet, develops deep vertical cracks when dry (self-ploughing); rich in calcium, magnesium, and potash.",
+   "phRange": "7.5 - 8.5",
+   "waterRetention": "High",
+   "dominantRegions": [
+    "Maharashtra",
+    "Madhya Pradesh",
+    "Gujarat",
+    "Northern Karnataka",
+    "Telangana"
+   ],
+   "bestSuitedCrops": [
+    "Cotton",
+    "Soybean",
+    "Sugarcane",
+    "Wheat",
+    "Gram / Chickpea",
+    "Onion"
+   ],
+   "organicMatterContent": "Low (0.2% - 0.5%)",
+   "managementTips": [
+    "Prepare deep broad-bed furrows (BBF) to prevent waterlogging during intense monsoon rain.",
+    "Avoid tillage when excessively wet to prevent severe soil compaction.",
+    "Apply elemental sulphur or gypsum to balance high exchangeable sodium."
+   ]
+  },
+  {
+   "id": "red-yellow",
+   "name": "Red & Yellow Soil (लाल और पीली मिट्टी)",
+   "hindiName": "लाल और पीली मिट्टी",
+   "characteristics": "Formed from crystalline igneous rocks; red color due to broad diffusion of ferric iron oxides; acidic to neutral; low water-holding capacity.",
+   "phRange": "5.5 - 6.8",
+   "waterRetention": "Low",
+   "dominantRegions": [
+    "Odisha",
+    "Chhattisgarh",
+    "Jharkhand",
+    "Tamil Nadu",
+    "Southern Karnataka",
+    "Bundelkhand"
+   ],
+   "bestSuitedCrops": [
+    "Pulses",
+    "Millets (Ragi, Bajra)",
+    "Groundnut",
+    "Potato",
+    "Tomato",
+    "Maize"
+   ],
+   "organicMatterContent": "Low (<0.4%)",
+   "managementTips": [
+    "Apply agricultural lime (100-150 kg/acre every 3 years) if pH drops below 5.5 to correct acidity.",
+    "Apply frequent light irrigations or install micro-drip systems due to porous drainage.",
+    "Requires higher basal phosphorus application oxides fix phosphates."
+   ]
+  },
+  {
+   "id": "sandy-loam",
+   "name": "Sandy Loam Soil (बलुई दोमट)",
+   "hindiName": "बलुई दोमट मिट्टी",
+   "characteristics": "Contains 60-70% sand with balanced silt and clay; warm, easily workable, excellent drainage, but prone to nutrient leaching.",
+   "phRange": "6.0 - 7.2",
+   "waterRetention": "Low to Moderate",
+   "dominantRegions": [
+    "Western Rajasthan",
+    "South-Western Punjab",
+    "North Gujarat",
+    "Parts of UP"
+   ],
+   "bestSuitedCrops": [
+    "Potato",
+    "Mustard",
+    "Onion",
+    "Groundnut",
+    "Carrot",
+    "Watermelon",
+    "Bajra"
+   ],
+   "organicMatterContent": "Very Low (0.1% - 0.3%)",
+   "managementTips": [
+    "Apply neem cake and compost to boost moisture-holding organic matrix.",
+    "Use sprinkler or drip irrigation; flood irrigation causes high percolation loss.",
+    "Apply potassium and micronutrients in split foliar doses rather than heavy soil broadcasting."
+   ]
+  },
+  {
+   "id": "clayey",
+   "name": "Clayey Soil (चिकनी मिट्टी)",
+   "hindiName": "चिकनी मिट्टी",
+   "characteristics": "Very fine particles (>40% clay); dense and heavy; holds tremendous moisture and nutrients but drains slowly and tends to compact.",
+   "phRange": "6.8 - 7.8",
+   "waterRetention": "High",
+   "dominantRegions": [
+    "River deltas",
+    "Coastal lowlands",
+    "Canal command basins"
+   ],
+   "bestSuitedCrops": [
+    "Rice (Paddy)",
+    "Jute",
+    "Sugarcane",
+    "Wheat"
+   ],
+   "organicMatterContent": "Moderate (0.5% - 0.8%)",
+   "managementTips": [
+    "Add gypsum and coarse organic residues (paddy straw, biochar) to improve soil pore aeration.",
+    "Maintain surface drainage ditches to prevent standing water stagnation.",
+    "Plough at optimal moisture stage (vapsa) to avoid heavy clod formation."
+   ]
+  }
+ ],
+ "NPK_EXPLANATION": {
+  "nitrogen": {
+   "symbol": "N",
+   "name": "Nitrogen (नाइट्रोजन)",
+   "role": "Essential for vegetative canopy, deep green chlorophyll production, rapid vegetative growth, and leaf protein synthesis.",
+   "deficiencySigns": "General yellowing (chlorosis) beginning on older lower leaves, stunted plant height, spindly thin stems.",
+   "primarySources": "Urea (46% N), DAP (18% N), Ammonium Sulphate (20.5% N), Vermicompost (1.5-2% N)."
+  },
+  "phosphorus": {
+   "symbol": "P",
+   "name": "Phosphorus (फॉस्फोरस)",
+   "role": "Powers deep root development, early seedling vigor, energy transfer (ATP), abundant flowering, and seed set.",
+   "deficiencySigns": "Purplish or dark bronze discoloration along leaf veins and edges, poorly developed shallow root system, delayed flowering.",
+   "primarySources": "DAP (46% P2O5), Single Super Phosphate - SSP (16% P2O5 + 11% Sulphur), NPK 12:32:16, Rock Phosphate."
+  },
+  "potassium": {
+   "symbol": "K",
+   "name": "Potassium / Potash (पोटाश)",
+   "role": "Acts immunity booster: regulates stomata water loss, confers drought and frost resilience, thickens stem cell walls against lodging and pest attack, enhances grain weight and fruit sweetness.",
+   "deficiencySigns": "Marginal leaf scorch or firing (scorched brown edges on older leaves), weak stalks that lodge easily, small shriveled grains.",
+   "primarySources": "Muriate of Potash - MOP (60% K2O), Sulphate of Potash - SOP (50% K2O + 17% S), Potassium Nitrate (13:0:45)."
+  }
+ },
+ "FARMING_TIPS_DATA": [
+  {
+   "id": "tip-1",
+   "title": "Crown Root Initiation (CRI) Water Rule for Wheat",
+   "category": "Crop Management",
+   "summary": "The first irrigation for wheat at 20-25 days after sowing is critical; delaying it reduces tillers and final grain yield by up to 25%.",
+   "steps": [
+    "Inspect field at 21 days after sowing for fine coronal roots forming just below the soil surface.",
+    "Apply light irrigation (never flood deep).",
+    "Follow within 48 hours with first split top-dressing of neem-coated Urea (25-30 kg/acre)."
+   ],
+   "benefit": "Ensures 4-6 productive tillers per plant and robust root anchoring.",
+   "season": "Rabi",
+   "readTime": "2 min read"
+  },
+  {
+   "id": "tip-2",
+   "title": "Laser Land Levelling for 25% Water & Fuel Savings",
+   "category": "Modern Farming",
+   "summary": "Precision laser-guided land grading creates a perfectly flat seedbed, eliminating dry high spots and waterlogged low pockets.",
+   "steps": [
+    "Conduct laser levelling once every 3-4 years before Rabi or Kharif field preparation.",
+    "Ensure soil has light workable moisture (vapsa) to avoid dust loss.",
+    "Combine with zero-tillage or raised-bed sowing for maximum efficiency."
+   ],
+   "benefit": "Saves 25-30% irrigation water, improves fertilizer use efficiency by 15%, and increases crop yield by 8-10%.",
+   "season": "Pre-Sowing",
+   "readTime": "3 min read"
+  },
+  {
+   "id": "tip-3",
+   "title": "Preparation of Jeevamrutha for Natural Soil Inoculation",
+   "category": "Organic Farming",
+   "summary": "Jeevamrutha is a fermented bio-culture that multiplies beneficial aerobic microbes, earthworms, and mycorrhizal fungi in Indian soils.",
+   "steps": [
+    "Take 200 liters of water in a plastic drum under tree shade.",
+    "Add 10 kg fresh indigenous cow dung + 5-10 liters desi cow urine.",
+    "Add 2 kg jaggery (gur) + 2 kg pulse flour (besan) + handful of virgin forest / fence line soil.",
+    "Stir clockwise twice daily for 4-5 days with a wooden stick.",
+    "Filter and apply 200 liters per acre along with irrigation water."
+   ],
+   "benefit": "Enriches soil organic biology, increases nutrient availability, and reduces reliance on chemical DAP.",
+   "season": "Whole Year",
+   "readTime": "4 min read"
+  },
+  {
+   "id": "tip-4",
+   "title": "Integrated Pest Management (IPM) using Pheromone & Yellow Sticky Traps",
+   "category": "Pest Management",
+   "summary": "Proactive monitoring with non-toxic physical traps detects pest influx 7-10 days before visible economic crop damage occurs.",
+   "steps": [
+    "Install 4-5 pheromone traps per acre for pink bollworm (cotton), pod borer (gram), or fruit borer (tomato).",
+    "Erect 15-20 bright yellow sticky sheets per acre at canopy height to capture whiteflies, aphids, and leaf miners.",
+    "Install blue sticky traps for catching flower thrips in chilli and onion fields.",
+    "Only spray bio-pesticides or approved targeted insecticides when trap catches exceed economic threshold levels (ETL)."
+   ],
+   "benefit": "Eliminates 60% of unnecessary chemical pesticide sprays and preserves beneficial predator insects like ladybird beetles.",
+   "season": "Kharif & Rabi",
+   "readTime": "3 min read"
+  },
+  {
+   "id": "tip-5",
+   "title": "Alternate Wetting and Drying (AWD) in Paddy Cultivation",
+   "category": "Water Management",
+   "summary": "Continuously submerging paddy fields is unnecessary and wastes water. AWD allows the field to intermittently dry between irrigations.",
+   "steps": [
+    "Insert a perforated PVC field tube (30 cm long, 15 cm diameter) 15 cm into the paddy soil.",
+    "Irrigate field to 5 cm depth. Allow water level to naturally recede.",
+    "Only re-irrigate when water level inside the pipe drops to 15 cm below soil surface.",
+    "Keep continuous 2-5 cm water only during flowering stage (heading to grain fill)."
+   ],
+   "benefit": "Saves up to 35% irrigation water, cuts diesel pumping costs, reduces methane emissions by 40%, and prevents lodging.",
+   "season": "Kharif",
+   "readTime": "3 min read"
+  },
+  {
+   "id": "tip-6",
+   "title": "Green Manuring with Dhaincha (Sesbania) for Soil Health",
+   "category": "Soil Health",
+   "summary": "Sowing Dhaincha or Sunn hemp during the 45-day summer fallow window fixes up to 45 kg pure organic nitrogen per acre.",
+   "steps": [
+    "Broadcast 20-25 kg Dhaincha seed per acre in May after wheat harvest with a light pre-irrigation.",
+    "Allow crop to grow for 40-45 days until early flowering when plant tissues are tender and succulent.",
+    "Incorporate biomass directly into soil using a disc harrow or rotavator, followed by field flooding."
+   ],
+   "benefit": "Adds 8-10 tonnes of lush green biomass, improves soil porosity, and allows a 25% reduction in synthetic Urea for the succeeding paddy crop.",
+   "season": "Zaid / Summer",
+   "readTime": "3 min read"
+  },
+  {
+   "id": "tip-7",
+   "title": "Hermetic Bag Storage for Grain Protection Without Chemicals",
+   "category": "Post-Harvest Management",
+   "summary": "Hermetic multi-layer bags (e.g. Purdue Improved Crop Storage - PICS) suffocate storage insects and keep grains fresh for over a year.",
+   "steps": [
+    "Ensure grains (wheat, pulses, maize) are sun-dried to safe moisture (<10-12%).",
+    "Fill grains into the innermost hermetic polyethylene liner and twist-seal tightly with zip ties to remove trapped air.",
+    "Seal the middle liner, then secure the heavy-duty outer woven polypropylene sack.",
+    "Store on wooden pallets away from damp concrete floors and direct sunlight."
+   ],
+   "benefit": "Zero post-harvest insect infestation, zero toxic chemical fumigation (Aluminium Phosphide / Celphos), and preserves seed germination viability.",
+   "season": "Post-Harvest",
+   "readTime": "3 min read"
+  }
+ ],
+ "FARMING_CALENDAR_DATA": {
+  "January": {
+   "month": "January",
+   "season": "Rabi",
+   "operations": {
+    "sowing": [
+     "Late sown wheat (if delayed)",
+     "Spring sunflower",
+     "Summer vegetables nursery (watermelon, cucumber) in poly-tunnels"
+    ],
+    "irrigation": [
+     "3rd irrigation for timely wheat (booting/jointing)",
+     "2nd irrigation for mustard during pod filling",
+     "Light frequent watering for potato"
+    ],
+    "fertilization": [
+     "Final top-dressing of Urea in wheat before flag leaf emergence",
+     "Foliar spray of 19:19:19 (1%) on vegetables"
+    ],
+    "pestManagement": [
+     "Monitor for mustard aphid and apply neem oil or Dimethoate",
+     "Watch for early signs of yellow rust in wheat"
+    ],
+    "harvesting": [
+     "Sugarcane (autumn and spring ratoon)",
+     "Early potato digging (Kufri Pukhraj)",
+     "Early cauliflower and cabbage"
+    ]
+   },
+   "regionNote": "Cold wave and frost warnings prevalent in Punjab, Haryana, Rajasthan, and Western UP; maintain smoke fires around orchards during freezing nights."
+  },
+  "February": {
+   "month": "February",
+   "season": "Rabi",
+   "operations": {
+    "sowing": [
+     "Spring maize",
+     "Zaid moong (greengram)",
+     "Okra (bhindi)",
+     "Bitter gourd",
+     "Bottle gourd"
+    ],
+    "irrigation": [
+     "4th irrigation for wheat at flowering (avoid irrigating on windy days)",
+     "Final light irrigation for gram / chickpea"
+    ],
+    "fertilization": [
+     "Foliar spray of 0.2% Boron on mustard and fruit crops to enhance seed/fruit set"
+    ],
+    "pestManagement": [
+     "Scout for gram pod borer in chickpea; install bird perches",
+     "Monitor powdery mildew on mango and pea"
+    ],
+    "harvesting": [
+     "Mustard / Sarson pod harvesting starts",
+     "Main crop potato digging",
+     "Winter vegetables"
+    ]
+   },
+   "regionNote": "Daytime temperatures begin rising; ensure soil does not crack during wheat flowering."
+  },
+  "March": {
+   "month": "March",
+   "season": "Rabi / Zaid",
+   "operations": {
+    "sowing": [
+     "Zaid summer moong, urad, cowpea",
+     "Summer maize",
+     "Cucurbits (melons, gourds)"
+    ],
+    "irrigation": [
+     "Final irrigation for wheat at dough stage",
+     "Regular 5-7 day watering for summer vegetables and spring sugarcane"
+    ],
+    "fertilization": [
+     "Basal dose of DAP and Potash for newly planted spring sugarcane"
+    ],
+    "pestManagement": [
+     "Manage thrips in onion and garlic using sticky traps or Fipronil",
+     "Protect summer cucurbits from red pumpkin beetle"
+    ],
+    "harvesting": [
+     "Mustard threshing and sun drying",
+     "Chickpea (chana) harvesting",
+     "Barley harvesting",
+     "Late potato digging"
+    ]
+   },
+   "regionNote": "Rabi harvest in full swing across Central and North India; calibrate threshers to minimize grain breakage."
+  },
+  "April": {
+   "month": "April",
+   "season": "Rabi / Zaid",
+   "operations": {
+    "sowing": [
+     "Spring sugarcane planting in North India",
+     "Summer green fodder crops (sorghum, bajra, maize)"
+    ],
+    "irrigation": [
+     "Frequent irrigation for summer vegetables and young sugarcane setts"
+    ],
+    "fertilization": [
+     "Top dress Urea for summer fodder and spring sugarcane"
+    ],
+    "pestManagement": [
+     "Control early shoot borer in sugarcane with Chlorantraniliprole drenching"
+    ],
+    "harvesting": [
+     "Peak wheat combine harvesting across MP, UP, Punjab, Haryana, and Rajasthan",
+     "Gram and lentil threshing"
+    ]
+   },
+   "regionNote": "High risk of accidental field fires; clear dry stubble borders around electricity transformers."
+  },
+  "May": {
+   "month": "May",
+   "season": "Zaid / Pre-Kharif",
+   "operations": {
+    "sowing": [
+     "Green manuring crops (Dhaincha, Sunn hemp)",
+     "Cotton sowing in irrigated belts of Punjab, Haryana, and Rajasthan",
+     "Paddy nursery preparation (late May)"
+    ],
+    "irrigation": [
+     "Irrigate cotton seedbeds; keep sugarcane mulched with trash"
+    ],
+    "fertilization": [
+     "Soil application of FYM (4-5 tonnes/acre) during summer deep ploughing"
+    ],
+    "pestManagement": [
+     "Treat cotton seeds with bio-agents against sucking pests"
+    ],
+    "harvesting": [
+     "Harvesting Zaid summer moong pods",
+     "Harvesting mature onion bulbs (Rabi crop)"
+    ]
+   },
+   "regionNote": "Deep summer ploughing (M.B. plough) exposes soil-borne pathogens, nematodes, and weed seeds to scorching sun."
+  },
+  "June": {
+   "month": "June",
+   "season": "Kharif",
+   "operations": {
+    "sowing": [
+     "Paddy nursery raising",
+     "Direct Seeded Rice (DSR)",
+     "Soybean, Maize, Pigeonpea (Arhar)",
+     "Groundnut in Gujarat & Rajasthan"
+    ],
+    "irrigation": [
+     "Ensure nursery beds have steady moisture; irrigate newly germinated Kharif seedlings if monsoon is delayed"
+    ],
+    "fertilization": [
+     "Incorporate green manure into soil before field flooding for rice",
+     "Basal NPK + Zinc for maize and soybean"
+    ],
+    "pestManagement": [
+     "Pheromone traps for pink bollworm in cotton",
+     "Pre-emergence weed control with Atrazine/Pendimethalin"
+    ],
+    "harvesting": [
+     "Final picking of summer moong",
+     "Mango and melon harvesting"
+    ]
+   },
+   "regionNote": "Arrival of Southwest Monsoon; test seed germination rates (>80%) before large-scale drilling."
+  },
+  "July": {
+   "month": "July",
+   "season": "Kharif",
+   "operations": {
+    "sowing": [
+     "Paddy seedling transplanting (20-25 day old seedlings)",
+     "Sowing of Bajra, Jowar, Til (Sesame)"
+    ],
+    "irrigation": [
+     "Maintain 2-3 cm standing water in newly transplanted paddy fields"
+    ],
+    "fertilization": [
+     "Basal dose of DAP + MOP + Zinc Sulphate at final puddling; first split of Urea for maize at knee-high"
+    ],
+    "pestManagement": [
+     "Apply Pretilachlor herbicide within 3 days of transplanting in rice",
+     "Scout for Fall Armyworm in maize"
+    ],
+    "harvesting": [
+     "Summer fodder harvesting",
+     "Continuous picking of rainy season vegetables (okra, brinjal)"
+    ]
+   },
+   "regionNote": "Peak monsoon activity across the Gangetic plains; keep field bunds reinforced to harvest rainwater."
+  },
+  "August": {
+   "month": "August",
+   "season": "Kharif",
+   "operations": {
+    "sowing": [
+     "Late transplanting of short duration paddy varieties (PR 126)",
+     "Early cauliflower and radish"
+    ],
+    "irrigation": [
+     "Practice alternate wetting and drying (AWD) in paddy if rains are consistent; drain excess water if flooded"
+    ],
+    "fertilization": [
+     "First top-dressing of Urea in paddy at active tillering (21-25 DAT)",
+     "Second top-dressing for maize and cotton"
+    ],
+    "pestManagement": [
+     "Monitor for yellow stem borer and leaf folder in rice",
+     "Inspect cotton for whitefly and jassids"
+    ],
+    "harvesting": [
+     "Green cobs of sweet corn and early maize",
+     "Rainy vegetables"
+    ]
+   },
+   "regionNote": "High humidity; inspect crops for early fungal spots and bacterial leaf blight."
+  },
+  "September": {
+   "month": "September",
+   "season": "Kharif",
+   "operations": {
+    "sowing": [
+     "Early potato (Kufri Pukhraj) in Western UP and Punjab",
+     "Toria (early mustard) sowing",
+     "Cabbage and cauliflower"
+    ],
+    "irrigation": [
+     "Keep 3-5 cm water in paddy during panicle emergence and flowering"
+    ],
+    "fertilization": [
+     "Second top-dressing of Urea + Potash for paddy at panicle initiation; stop nitrogen 30 days before harvest"
+    ],
+    "pestManagement": [
+     "Scout for Brown Plant Hopper (BPH) at the base of paddy hills",
+     "Watch for bollworms in cotton"
+    ],
+    "harvesting": [
+     "Harvesting early maize",
+     "Harvesting early green soybean",
+     "First picking of cotton bolls"
+    ]
+   },
+   "regionNote": "Monsoon withdrawal begins; prepare dry fields for upcoming Rabi sowing."
+  },
+  "October": {
+   "month": "October",
+   "season": "Post-Kharif / Rabi",
+   "operations": {
+    "sowing": [
+     "Mustard / Sarson (optimal window: Oct 1-25)",
+     "Main potato crop planting",
+     "Chickpea (chana) and lentil sowing",
+     "Autumn sugarcane"
+    ],
+    "irrigation": [
+     "Pre-sowing irrigation (paleva) for mustard and gram; drain paddy fields completely 10 days before harvest"
+    ],
+    "fertilization": [
+     "Basal NPK + Sulphur application for mustard and potato"
+    ],
+    "pestManagement": [
+     "Prophylactic spray against late blight in potato",
+     "White grub control in groundnut and sugarcane"
+    ],
+    "harvesting": [
+     "Paddy combine harvesting in Punjab, Haryana, and UP",
+     "Soybean and groundnut harvesting"
+    ]
+   },
+   "regionNote": "Crucial transition month; complete mustard sowing early to avoid aphid attacks in spring."
+  },
+  "November": {
+   "month": "November",
+   "season": "Rabi",
+   "operations": {
+    "sowing": [
+     "Wheat sowing (optimal window: Nov 1-20)",
+     "Barley, Pea, Garlic, and Onion nursery"
+    ],
+    "irrigation": [
+     "First CRI irrigation for early wheat (at 21 days); first irrigation for mustard at 30-35 days"
+    ],
+    "fertilization": [
+     "Basal application of DAP, MOP, and Urea for wheat using seed-cum-fertilizer drill"
+    ],
+    "pestManagement": [
+     "Spray Clodinafop-propargyl for Phalaris minor in wheat at 30-35 days; monitor cutworm in potato"
+    ],
+    "harvesting": [
+     "Late Basmati paddy harvesting",
+     "Sugarcane harvesting begins at sugar mills"
+    ]
+   },
+   "regionNote": "Complete wheat sowing by Nov 25 for maximum yield; use Happy Seeder to sow directly into paddy stubble."
+  },
+  "December": {
+   "month": "December",
+   "season": "Rabi",
+   "operations": {
+    "sowing": [
+     "Late sown wheat varieties (HD 3059, PBW 550, WH 1021) up to Dec 25",
+     "Transplanting Rabi onion seedlings"
+    ],
+    "irrigation": [
+     "2nd irrigation for wheat at tillering; earthing-up and irrigation for potato"
+    ],
+    "fertilization": [
+     "Top dress Urea for wheat and potato following first irrigation"
+    ],
+    "pestManagement": [
+     "Preventive spray of Mancozeb (2.5 g/L) against Late Blight during foggy mornings in potato and tomato"
+    ],
+    "harvesting": [
+     "Sugarcane supply to mills",
+     "Harvesting early potato and radish/carrot"
+    ]
+   },
+   "regionNote": "Dense winter fog conditions; monitor for late blight in potato and stripe rust in northern wheat belts."
+  }
+ },
+ "SAMPLE_DISEASE_CASES": [
+  {
+   "id": "sample-wheat-rust",
+   "name": "Wheat Yellow / Stripe Rust",
+   "cropName": "Wheat",
+   "thumbnail": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=400&q=80",
+   "diagnosis": {
+    "diseaseName": "Stripe Rust / Yellow Rust of Wheat",
+    "scientificName": "Puccinia striiformis f. sp. tritici",
+    "confidence": 93,
+    "severity": "Moderate",
+    "symptoms": [
+     "Linear bright yellow to orange-yellow powdery pustules arranged in parallel stripes along leaf veins",
+     "Yellow spore powder rubs onto skin, clothing, or white cloth when touched",
+     "Severe infection leads to leaf necrosis, early drying, and lightweight shriveled grains"
+    ],
+    "possibleCauses": [
+     "Cool temperatures (10°C - 18°C) paired with high humidity (>85%) or morning fog and dew",
+     "Windborne fungal urediniospores blown from Himalayan foothill regions across northern plains",
+     "Cultivation of susceptible or older non-notified wheat seed varieties"
+    ],
+    "prevention": [
+     "Sow certified rust-resistant varieties like DBW 187, DBW 222, HD 3226, or PBW 725",
+     "Timely sowing by mid-November to escape peak January-February spore flights",
+     "Avoid excessive vegetative nitrogen (Urea) without matching potassium fertilization"
+    ],
+    "recommendedNextSteps": [
+     "Spray Propiconazole 25 EC (Tilt) @ 1 ml/liter of water or Tebuconazole 25.9 EC @ 1 ml/liter at the first sign of yellow stripes",
+     "Ensure thorough leaf coverage using 200 liters of spray solution per acre with a hollow cone or flat fan nozzle",
+     "Repeat spray after 15 days if cool humid conditions persist and new lesions emerge"
+    ],
+    "expertAdvice": "Report localized yellow rust patches to your block Krishi Vigyan Kendra (KVK) plant pathologist immediately for surveillance mapping."
+   }
+  },
+  {
+   "id": "sample-tomato-blight",
+   "name": "Tomato Early Blight",
+   "cropName": "Tomato",
+   "thumbnail": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?auto=format&fit=crop&w=400&q=80",
+   "diagnosis": {
+    "diseaseName": "Early Blight of Tomato",
+    "scientificName": "Alternaria solani",
+    "confidence": 91,
+    "severity": "Moderate",
+    "symptoms": [
+     "Dark brown to black circular lesions with distinct concentric rings (concentric target board pattern)",
+     "Yellow chlorotic halo surrounding lesions on mature lower foliage",
+     "Progressive leaf yellowing, drying, and premature defoliation from ground upward"
+    ],
+    "possibleCauses": [
+     "Intermittent warm temperatures (24°C - 29°C) and heavy morning dews or rains",
+     "Fungal spores surviving on previous solanaceous crop residues in soil",
+     "Rain or overhead irrigation splashing contaminated soil particles onto lower foliage"
+    ],
+    "prevention": [
+     "Practice a 3-year crop rotation avoiding tomato, potato, brinjal, and chilli in the same plot",
+     "Stake vines with bamboo trellis and lay silver-black plastic mulch to prevent soil splashing",
+     "Drip irrigate at root zone; avoid overhead sprinkler watering"
+    ],
+    "recommendedNextSteps": [
+     "Carefully prune and remove infected lower leaves and safely bury or burn away from the field",
+     "Foliar spray with Copper Oxychloride 50 WP @ 3 g/L or Mancozeb 75 WP @ 2.5 g/L",
+     "For organic control, apply biological agent Trichoderma harzianum or Pseudomonas fluorescens @ 5 g/L"
+    ],
+    "expertAdvice": "If sunken brown cankers appear at the stem collar, consult your district horticulture officer."
+   }
+  },
+  {
+   "id": "sample-rice-blast",
+   "name": "Rice Leaf Blast",
+   "cropName": "Rice (Paddy)",
+   "thumbnail": "https://images.unsplash.com/photo-1536304993881-ff6e9eefa2a6?auto=format&fit=crop&w=400&q=80",
+   "diagnosis": {
+    "diseaseName": "Rice Blast",
+    "scientificName": "Magnaporthe oryzae (Pyricularia oryzae)",
+    "confidence": 88,
+    "severity": "High",
+    "symptoms": [
+     "Spindle-shaped elliptical lesions with gray or ash-colored centers and dark reddish-brown borders",
+     "Lesions enlarge and coalesce causing entire leaf blade to turn brown and wither (blast-like appearance)",
+     "Neck blast stage causes black lesions at panicle base resulting in empty whitish chaffy grains"
+    ],
+    "possibleCauses": [
+     "High atmospheric humidity (>90%) with prolonged leaf wetness over 10-12 hours",
+     "Night temperatures between 19°C - 23°C coupled with overcast cloudy days",
+     "Excessive or imbalanced top-dressing of chemical Urea"
+    ],
+    "prevention": [
+     "Avoid overdosing nitrogen; divide total Urea into 3-4 smaller split applications",
+     "Apply recommended dose of Potassium (MOP) to bolster cell wall silica strength",
+     "Sow blast-tolerant certified varieties like Swarna, PR 126, or MTU 1010"
+    ],
+    "recommendedNextSteps": [
+     "Drain excess standing water from the paddy field temporarily to curtail humidity buildup",
+     "Foliar spray with Tricyclazole 75 WP @ 0.6 g/L or Isoprothiolane 40 EC @ 1.5 ml/L",
+     "Spray during morning hours when dew has evaporated but sun is not harsh"
+    ],
+    "expertAdvice": "Rice blast spreads rapidly in dense humid canopies. Notify your agriculture extension officer if neck infection occurs."
+   }
+  },
+  {
+   "id": "sample-potato-blight",
+   "name": "Potato Late Blight",
+   "cropName": "Potato",
+   "thumbnail": "https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=400&q=80",
+   "diagnosis": {
+    "diseaseName": "Late Blight of Potato",
+    "scientificName": "Phytophthora infestans",
+    "confidence": 95,
+    "severity": "High",
+    "symptoms": [
+     "Water-soaked irregular black/purplish lesions appearing first at leaf tips and margins",
+     "Delicate whitish cottony fungal mildew visible on lower leaf surfaces in early morning fog",
+     "Rapid blighting and decay of the entire foliage with characteristic pungent odor in wet fields"
+    ],
+    "possibleCauses": [
+     "Cool temperatures (10°C - 20°C) combined with high relative humidity (>90%) and continuous winter fog",
+     "Use of latently infected seed tubers",
+     "Water stagnation in furrows between ridges"
+    ],
+    "prevention": [
+     "Procure certified disease-free seed tubers from Government seed multiplication farms",
+     "Earth up ridges high (at least 20 cm) so spores do not wash down into growing tubers",
+     "Apply prophylactic spray of Mancozeb 75 WP (2.5 g/L) before the onset of dense December-January fogs"
+    ],
+    "recommendedNextSteps": [
+     "Apply systemic fungicide: Cymoxanil 8% + Mancozeb 64% WP @ 2.5 g/L or Dimethomorph 50% WP @ 1 g/L",
+     "If crop is near maturity (80-85 days), cut and remove all green foliage (de-haulming) to protect tubers",
+     "Leave tubers in ground for 10-12 days after de-haulming before digging to thicken tuber skin"
+    ],
+    "expertAdvice": "Late blight is an aggressive epidemic disease. Seek immediate advisory from Central Potato Research Institute (CPRI) helpline."
+   }
+  }
+ ]
+}
